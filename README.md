@@ -1,4 +1,7 @@
-# EduVision_DV — Higher Education Performance Dashboard
+# EduVision DV — Higher Education Performance Dashboard
+
+Author : PURBASA BHADURI 
+
 
 A Tableau-based analytics suite for evaluating global university rankings, research performance, student diversity, and cross-country education trends, built from publicly available datasets including the QS World University Rankings and the Times Higher Education World University Rankings.
 
