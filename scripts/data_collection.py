@@ -104,6 +104,42 @@ merged_data = pd.merge(
     suffixes=("_QS", "_THE")
 )
 
+# ---------------------------------------
+# Rename merged columns to reference names
+# ---------------------------------------
+
+merged_data = merged_data.rename(columns={
+
+    "world_rank_QS": "world_rank",
+    "overall_score_QS": "overall_score",
+    "country_QS": "country",
+
+    "faculty_student_ratio_QS": "faculty_to_student_ratio",
+
+    "international_students_ratio_QS": "international_student_ratio",
+
+    "citations_per_faculty": "citations_per_faculty_score",
+
+    "international_faculty_score": "international_faculty_score",
+
+    "international_research_network_score": "international_research_network_score",
+
+    "total_students": "total_students",
+
+    "female_percentage": "female_percentage",
+
+    "research_environment": "research_environment_score",
+
+    "research_quality": "research_quality_score",
+
+    "international_outlook": "international_outlook_score"
+
+})
+
+print("\nFinal Column Names:\n")
+
+print(merged_data.columns.tolist())
+
 print("\nMerged Dataset Preview")
 print(merged_data.head())
 
