@@ -21,8 +21,4 @@ The Python script (`pandas`) performs the following critical data quality improv
 4. **Text Standardization:** 
    * Applied `.str.strip()` across all categorical/text columns to remove hidden trailing and leading whitespaces, ensuring accurate grouping for visualizations.
 
-## 🚀 How to Run the Script
-1. Ensure you have Python and Pandas installed.
-2. Run the cleaning script via terminal:
-   ```bash
-   python datacleaning.py
+
