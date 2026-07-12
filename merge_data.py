@@ -1,28 +1,62 @@
 import pandas as pd
 
-# Load Dataset 1
-df1 = pd.read_csv("qs-world-university-rankings-2017-to-2022-V2 (1).csv")
+print("Loading datasets...")
 
-# Load Dataset 2
-df2 = pd.read_csv("world_university_rankings_2026 (4).csv")   
+# Load datasets
+qs = pd.read_csv("raw_data/qs_2026.csv")
+qs_ref = pd.read_csv("raw_data/qs_reference.csv")
+world = pd.read_csv("raw_data/world_rankings_2026.csv")
 
-# Rename columns
-df1.rename(columns={"university": "university_name"}, inplace=True)
-df2.rename(columns={"university": "university_name"}, inplace=True)
+# -----------------------------
+# Data Cleaning
+# -----------------------------
 
-# Merge datasets
+# Standardize university names
+qs["Institution Name"] = qs["Institution Name"].str.strip().str.lower()
+world["university"] = world["university"].str.strip().str.lower()
+
+# Standardize country names
+qs["Country/Territory"] = qs["Country/Territory"].str.strip().str.lower()
+world["country"] = world["country"].str.strip().str.lower()
+
+print("Cleaning completed...")
+
+# -----------------------------
+# Merge Datasets
+# -----------------------------
+
 merged = pd.merge(
-    df1,
-    df2,
-    on=["university_name", "country"],
-    how="outer"
+    qs,
+    world,
+    left_on=["Institution Name", "Country/Territory"],
+    right_on=["university", "country"],
+    how="left"
 )
 
-# Remove duplicate columns
-merged = merged.loc[:, ~merged.columns.duplicated()]
+print("Merge completed!")
 
-# Save merged dataset
+# -----------------------------
+# Remove duplicate rows
+# -----------------------------
+merged = merged.drop_duplicates()
+
+# -----------------------------
+# Handle missing values
+# -----------------------------
+merged = merged.fillna("Not Available")
+
+# -----------------------------
+# Save Final Dataset
+# -----------------------------
 merged.to_csv("university_raw_data.csv", index=False)
 
-print("Merge completed successfully!")
-print(merged.shape)
+print("Final dataset saved as university_raw_data.csv")
+print("Rows :", merged.shape[0])
+print("Columns :", merged.shape[1])
+print("\nDataset Preview:")
+print(merged.head())
+
+print("\nMissing Values:")
+print(merged.isnull().sum())
+
+print("\nDataset generated successfully!")
