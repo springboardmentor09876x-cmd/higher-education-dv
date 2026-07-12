@@ -1,5 +1,5 @@
 from pathlib import Path
-import pandas as pd
+import pandas as pd # type: ignore[import]
 
 # ==========================================
 # Module 1 - Final Master Dataset Creation
