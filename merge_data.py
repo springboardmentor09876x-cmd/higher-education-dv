@@ -1,30 +1,38 @@
 import pandas as pd
 
+print("========== Higher Education Dataset Integration ==========")
+
+# ----------------------------------------------------
+# Load Datasets
+# ----------------------------------------------------
 print("Loading datasets...")
 
-# Load datasets
 qs = pd.read_csv("raw_data/qs_2026.csv")
 qs_ref = pd.read_csv("raw_data/qs_reference.csv")
 world = pd.read_csv("raw_data/world_rankings_2026.csv")
 
-# -----------------------------
-# Data Cleaning
-# -----------------------------
+# ----------------------------------------------------
+# Remove unnecessary columns
+# ----------------------------------------------------
+qs_ref = qs_ref.loc[:, ~qs_ref.columns.str.contains("^Unnamed")]
 
-# Standardize university names
+# ----------------------------------------------------
+# Standardize column values
+# ----------------------------------------------------
 qs["Institution Name"] = qs["Institution Name"].str.strip().str.lower()
-world["university"] = world["university"].str.strip().str.lower()
-
-# Standardize country names
 qs["Country/Territory"] = qs["Country/Territory"].str.strip().str.lower()
+
+qs_ref["Name"] = qs_ref["Name"].str.strip().str.lower()
+qs_ref["Country/Territory"] = qs_ref["Country/Territory"].str.strip().str.lower()
+
+world["university"] = world["university"].str.strip().str.lower()
 world["country"] = world["country"].str.strip().str.lower()
 
-print("Cleaning completed...")
+print("Cleaning completed.")
 
-# -----------------------------
-# Merge Datasets
-# -----------------------------
-
+# ----------------------------------------------------
+# Merge QS Dataset with World Rankings
+# ----------------------------------------------------
 merged = pd.merge(
     qs,
     world,
@@ -33,30 +41,54 @@ merged = pd.merge(
     how="left"
 )
 
-print("Merge completed!")
+print("QS + World Rankings merged.")
 
-# -----------------------------
+# ----------------------------------------------------
+# Merge with Reference Dataset
+# ----------------------------------------------------
+merged = pd.merge(
+    merged,
+    qs_ref,
+    left_on=["Institution Name", "Country/Territory"],
+    right_on=["Name", "Country/Territory"],
+    how="left",
+    suffixes=("", "_ref")
+)
+
+print("Reference dataset merged.")
+
+# ----------------------------------------------------
 # Remove duplicate rows
-# -----------------------------
-merged = merged.drop_duplicates()
+# ----------------------------------------------------
+merged.drop_duplicates(inplace=True)
 
-# -----------------------------
+# ----------------------------------------------------
 # Handle missing values
-# -----------------------------
-merged = merged.fillna("Not Available")
+# ----------------------------------------------------
+# Fill text columns
+object_cols = merged.select_dtypes(include=["object"]).columns
+merged[object_cols] = merged[object_cols].fillna("Not Available")
 
-# -----------------------------
+# Fill numeric columns
+numeric_cols = merged.select_dtypes(include=["number"]).columns
+merged[numeric_cols] = merged[numeric_cols].fillna(0)
+
+# ----------------------------------------------------
 # Save Final Dataset
-# -----------------------------
+# ----------------------------------------------------
 merged.to_csv("university_raw_data.csv", index=False)
 
-print("Final dataset saved as university_raw_data.csv")
-print("Rows :", merged.shape[0])
+# ----------------------------------------------------
+# Summary
+# ----------------------------------------------------
+print("\n========== SUMMARY ==========")
+print("Rows    :", merged.shape[0])
 print("Columns :", merged.shape[1])
-print("\nDataset Preview:")
+
+print("\nFirst Five Records")
 print(merged.head())
 
-print("\nMissing Values:")
+print("\nMissing Values")
 print(merged.isnull().sum())
 
 print("\nDataset generated successfully!")
