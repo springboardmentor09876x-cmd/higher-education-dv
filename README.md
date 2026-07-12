@@ -2,60 +2,111 @@
 
 ## 📖 Project Overview
 
-This project was developed as part of the Infosys Springboard EduVision Data Visualization Internship. The objective of Module 1 is to collect, standardize, and integrate multiple global university ranking datasets into a unified dataset for further analysis and dashboard development.
+This project was developed as part of the **Infosys Springboard EduVision Internship** under the **Data Visualization** domain.
+
+The objective of this project is to collect, clean, integrate, and analyze global university ranking datasets from multiple sources to build an interactive Higher Education Dashboard.
 
 ---
 
-## 🚀 Module 1 – Data Collection
+# 🚀 Project Modules
+
+## ✅ Module 1 – Data Collection
 
 ### Completed Tasks
+
 - Collected university ranking datasets from multiple sources.
 - Loaded datasets using Python and Pandas.
 - Standardized column names and data formats.
 - Merged datasets into a unified master dataset.
 - Performed initial validation and consistency checks.
-- Exported the final merged dataset for future modules.
+- Exported the merged dataset.
 
 ---
 
-## 📂 Repository Structure
+## ✅ Module 2 – Data Cleaning & Preprocessing
 
-```
+### Completed Tasks
+
+- Handled missing values.
+- Removed duplicate records.
+- Standardized column names.
+- Corrected data types.
+- Renamed columns according to project requirements.
+- Performed feature engineering.
+- Validated the cleaned dataset.
+- Exported the final cleaned dataset.
+
+---
+
+# 📂 Repository Structure
+
+```text
 higher-education-dv/
 │
 ├── datasets/
 │   ├── raw_data/
 │   └── processed_data/
+│       ├── merged data/
+│       └── cleaned data/
 │
 ├── notebooks/
-│   └── Module_1_Data_Collection.ipynb
+│   ├── data_collection notebook/
+│   └── data cleaning notebook/
 │
 ├── scripts/
-│   └── data_collection.py
+│   ├── data collection script/
+│   └── data cleaning script/
 │
 └── README.md
 ```
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
+- NumPy
 - Jupyter Notebook
 - Git
 - GitHub
 
 ---
 
-## 📌 Current Status
+# 📈 Project Workflow
 
-✅ Module 1 – Data Collection Completed
-
-⏳ Module 2 – Data Cleaning (Upcoming)
+```text
+Raw Datasets
+      │
+      ▼
+Data Collection
+      │
+      ▼
+Data Merging
+      │
+      ▼
+Data Cleaning & Preprocessing
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Dashboard Development
+```
 
 ---
 
-## 👩‍💻 Author
+# 📌 Current Status
+
+| Module | Status |
+|---------|--------|
+| ✅ Module 1 – Data Collection | Completed |
+| ✅ Module 2 – Data Cleaning & Preprocessing | Completed |
+
+---
+
+# 👩‍💻 Author
 
 **S. Sai Dhejasvini**
+
+**Infosys Springboard EduVision Internship**
