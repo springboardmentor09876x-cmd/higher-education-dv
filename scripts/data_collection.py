@@ -257,6 +257,88 @@ def map_the():
 
     return the
 
+def map_times():
+    """
+    Maps Times World University Rankings dataset to the master schema.
+    """
+
+    print("\nProcessing Times Rankings...")
+
+    times = read_dataset(RAW_DIR / "timesData.csv")
+    times = clean_columns(times)
+
+    times = times.rename(columns={
+        "university_name": "university_name",
+        "country": "country",
+        "world_rank": "world_rank",
+        "total_score": "overall_score",
+        "teaching": "teaching_score",
+        "research": "research_score",
+        "international": "international_outlook",
+        "citations": "citations",
+        "num_students": "student_population",
+        "student_staff_ratio": "student_staff_ratio",
+        "international_students": "international_students",
+        "female_male_ratio": "female_male_ratio",
+        "year": "year"
+    })
+
+    times["source"] = "Times"
+    times["national_rank"] = np.nan
+    times["region"] = np.nan
+
+    times = ensure_master_schema(times)
+
+    print(f"Times Records : {len(times)}")
+
+    return times
+
+def map_shanghai():
+    """
+    Maps Shanghai Ranking dataset to the master schema.
+    """
+
+    print("\nProcessing Shanghai Rankings...")
+
+    shanghai = read_dataset(RAW_DIR / "shanghaiData.csv")
+    shanghai = clean_columns(shanghai)
+
+    shanghai = shanghai.rename(columns={
+        "university_name": "university_name",
+        "world_rank": "world_rank",
+        "national_rank": "national_rank",
+        "total_score": "overall_score",
+        "alumni": "alumni",
+        "award": "award",
+        "hici": "hici",
+        "ns": "ns",
+        "pub": "pub",
+        "pcp": "pcp",
+        "year": "year"
+    })
+
+    # Add country using mapping file
+    mapping = read_dataset(RAW_DIR / "school_and_country_table.csv")
+    mapping = clean_columns(mapping)
+
+    mapping = mapping.rename(columns={
+        "school_name": "university_name"
+    })
+
+    shanghai = shanghai.merge(
+        mapping,
+        on="university_name",
+        how="left"
+    )
+
+    shanghai["source"] = "Shanghai"
+    shanghai["region"] = np.nan
+
+    shanghai = ensure_master_schema(shanghai)
+
+    print(f"Shanghai Records : {len(shanghai)}")
+
+    return shanghai
 
 def map_cwur():
     """
@@ -294,63 +376,164 @@ def map_cwur():
 
     return cwur
 
+def create_merge_key(df):
+
+    df["merge_key"] = (
+
+        df["university_name"]
+        .astype(str)
+        .str.lower()
+        .str.strip()
+        .str.replace("&", "and", regex=False)
+        .str.replace(".", "", regex=False)
+        .str.replace(",", "", regex=False)
+
+    )
+
+    if "country" in df.columns:
+
+        df["merge_key"] = (
+            df["merge_key"] + "_" +
+            df["country"].fillna("").astype(str).str.lower()
+        )
+
+    return df
+
+def consolidate_columns(df):
+    """
+    Combine duplicate columns created after merging.
+    """
+
+    base_columns = [
+        "university_name",
+        "country",
+        "region",
+        "world_rank",
+        "national_rank",
+        "overall_score",
+        "year",
+        "source",
+
+        "academic_reputation_score",
+        "employer_reputation_score",
+        "faculty_student_score",
+        "citations_per_faculty_score",
+        "international_faculty_score",
+        "international_students_score",
+        "international_research_network_score",
+        "employment_outcomes_score",
+        "sustainability_score",
+
+        "teaching_score",
+        "research_score",
+        "research_quality",
+        "industry_impact",
+        "international_outlook",
+
+        "quality_of_education",
+        "quality_of_faculty",
+        "alumni_employment",
+        "publications",
+        "influence",
+        "citations",
+        "broad_impact",
+        "patents",
+
+        "student_population",
+        "student_staff_ratio",
+        "international_students",
+        "female_male_ratio",
+
+        "alumni",
+        "award",
+        "hici",
+        "ns",
+        "pub",
+        "pcp"
+    ]
+
+    suffixes = [
+        "_the",
+        "_cwur",
+        "_times",
+        "_sh"
+    ]
+
+    for col in base_columns:
+
+        for suf in suffixes:
+
+            dup = col + suf
+
+            if dup in df.columns:
+
+                df[col] = df[col].combine_first(df[dup])
+
+                df.drop(columns=dup, inplace=True)
+
+    return df
+
 # ==========================================================
 # MAIN ETL PIPELINE
 # ==========================================================
 
 def main():
 
-    print("=" * 60)
-    print("EduVision - University Data Collection Pipeline")
-    print("=" * 60)
+    print("\nLoading datasets...")
 
-    datasets = [
+    qs = map_qs()
+    the = map_the()
+    cwur = map_cwur()
+    times = map_times()
+    shanghai = map_shanghai()
+    qs = create_merge_key(qs)
+    the = create_merge_key(the)
+    cwur = create_merge_key(cwur)
+    times = create_merge_key(times)
+    shanghai = create_merge_key(shanghai)
+    print("\nMerging QS + THE")
 
-        map_qs(),
-        map_the(),
-        map_cwur(),
-        map_times(),
-        map_shanghai()
-
-    ]
-
-    print("\nMerging datasets...")
-
-    master = pd.concat(
-        datasets,
-        ignore_index=True
+    master = qs.merge(
+        the,
+        on="merge_key",
+        how="outer",
+        suffixes=("", "_the")
     )
+    print("Merging CWUR")
 
-    print("Generating University IDs...")
-
-    master = generate_ids(master)
-
-    print("Removing completely empty rows...")
-
-    master = master.dropna(how="all")
-
-    print("Saving dataset...")
-
-    master.to_csv(
-        OUTPUT_FILE,
-        index=False
+    master = master.merge(
+        cwur,
+        on="merge_key",
+        how="outer",
+        suffixes=("", "_cwur")
     )
+    print("Merging Times")
 
-    print("\n" + "=" * 60)
-    print("DATA COLLECTION COMPLETED SUCCESSFULLY")
-    print("=" * 60)
+    master = master.merge(
+        times,
+        on="merge_key",
+        how="outer",
+        suffixes=("", "_times")
+    )
+    print("Merging Shanghai")
+    master = master.merge(
+    shanghai,
+    on="merge_key",
+    how="outer",
+    suffixes=("", "_sh")
+    )
+    print("\nConsolidating duplicate columns...")
 
-    print(f"Rows    : {master.shape[0]}")
-    print(f"Columns : {master.shape[1]}")
+    master = consolidate_columns(master)
 
-    print("\nSource Distribution:")
+    master.drop(columns=["merge_key"], inplace=True, errors="ignore")
 
-    print(master["source"].value_counts())
-
-    print(f"\nSaved To:\n{OUTPUT_FILE}")
-
-    return master
-
+    master = master.merge(
+        shanghai,
+        on="merge_key",
+        how="outer",
+        suffixes=("", "_sh")
+    )
 
 # ==========================================================
 # DRIVER
