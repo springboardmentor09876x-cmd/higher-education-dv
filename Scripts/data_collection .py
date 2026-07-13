@@ -2,18 +2,13 @@ import re
 import numpy as np
 import pandas as pd
 
-np.random.seed(42)  
-RAW = "./raw_data"
-
-
-# ---------------------------------------------------------------------------
 # Helpers
-# ---------------------------------------------------------------------------
+
 def clean_name(name):
     """Normalize a university name for matching/joining across sources."""
     if not isinstance(name, str):
         return ""
-    n = re.sub(r"\s*\([^)]*\)", "", name)          # drop "(MIT)" style suffixes
+    n = re.sub(r"\s*\([^)]*\)", "", name)          
     n = re.sub(r"\s+", " ", n).strip()
     return n
 
