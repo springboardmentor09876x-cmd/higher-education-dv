@@ -1,0 +1,419 @@
+﻿university_id,university_name,country,matched_name,score,institution_id,works_count,cited_by_count,h_index,i10_index,2yr_mean_citedness
+U000005,Abbes Laghrour University of Khenchala,Algeria,Abbès Laghrour University of Khenchela,92.10526315789474,https://openalex.org/I4210130929,2086,21791,52,639,2.73953488372093
+U000021,Ada Kent University,Northern Cyprus,Başkent University,91.89189189189189,https://openalex.org/I188740104,19793,600686,172,15797,1.327269800386349
+U000022,"Adam Mickiewicz University, Poznań",Poland,Adam Mickiewicz University in Poznań,95.52238805970148,https://openalex.org/I59411706,67222,1418552,277,32953,1.9444914060298677
+U000023,"Adamawa State University, Mubi",Nigeria,Adamawa State University,90.56603773584906,https://openalex.org/I106980716,1831,8891,35,211,0.3931707317073171
+U000033,AGH University of Science and Technology,Poland,University of Science and Technology,94.73684210526316,https://openalex.org/I118692353,17778,190496,154,3866,1.6567728442728442
+U000043,Aix-Marseille University,France,Aix-Marseille Université,97.87234042553192,https://openalex.org/I21491767,144787,11148521,783,155330,2.207926984937452
+U000049,AKFA University,Uzbekistan,AKAD University,93.33333333333333,https://openalex.org/I4210124604,131,740,14,24,0.40625
+U000061,Al-Ayen University,Iraq,Al-Ameen University,91.89189189189189,https://openalex.org/I4405264270,0,0,0,0,0.0
+U000072,Al Imam Mohammad Ibn Saud Islamic University,Saudi Arabia,Imam Mohammad ibn Saud Islamic University,96.47058823529412,https://openalex.org/I240666556,19750,315687,143,7895,3.885023028688752
+U000073,Al-Janad University for Science and Technology,Yemen,Al-Ryada University for Science and Technology,93.47826086956522,https://openalex.org/I4391768229,42,325,9,7,6.314285714285714
+U000075,Al-Kitab University,Iraq,Akita University,91.42857142857143,https://openalex.org/I203765153,21975,1026233,265,22513,1.6454513399153738
+U000081,Al-Nahrain University,Iraq,Nahrain University,92.3076923076923,https://openalex.org/I56409017,10650,114315,103,2856,2.796581485869013
+U000125,"Amity University, Chhattisgarh",India,Amity University Chhatisgarh,98.24561403508771,https://openalex.org/I4405266109,0,0,0,0,0.0
+U000133,Anáhuac University,Mexico,Nanhua University,91.42857142857143,https://openalex.org/I4210112569,1726,34781,81,596,2.10850439882698
+U000146,Anna University,India,Hannam University,93.75,https://openalex.org/I112728665,5891,195613,150,3649,1.2065553494124923
+U000148,Antonio Nariño University,Colombia,Universidad Antonio Nariño,90.19607843137256,https://openalex.org/I4210101155,4683,323978,228,4153,2.2406876790830945
+U000173,Ashur University,Iraq,Asbury University,90.9090909090909,https://openalex.org/I236658880,523,4414,32,106,0.4859813084112149
+U000175,Asia Pacific University of Technology and Innovation (APU),Malaysia,Asia Pacific University of Technology & Innovation,92.3076923076923,https://openalex.org/I181397559,3685,40632,75,924,1.2476859240344718
+U000180,Ataturk University,Turkey,Atatürk University,94.44444444444444,https://openalex.org/I64134780,40382,1396262,271,30108,2.5813405186931626
+U000185,Atyrau University,Kazakhstan,Atria University,90.9090909090909,https://openalex.org/I4405253771,0,0,0,0,0.0
+U000190,Augustine University,Nigeria,Augustana University,90.0,https://openalex.org/I149700789,1510,193925,268,3240,2.0088235294117647
+U000197,Autonomous University of Chiapas,Mexico,Autonomous University of Chihuahua,90.9090909090909,https://openalex.org/I142652706,7630,143850,117,3480,1.3598700243704305
+U000199,Autonomous University of San Luis Potosi,Mexico,Autonomous University of San Luis Potosí,98.73417721518987,https://openalex.org/I196664497,18269,672806,241,13691,1.8396100427350428
+U000205,B. S. Abdur Rahman Crescent Institute of Science and Technology,India,B.S. Abdur Rahman Crescent Institute of Science & Technology,96.61016949152543,https://openalex.org/I94948490,5387,117011,115,2673,2.622909435153045
+U000207,Babes-Bolyai University,Romania,Babeș-Bolyai University,97.77777777777777,https://openalex.org/I3125347698,34731,850663,253,18440,2.4418804890649217
+U000211,Badji Mokhtar University – Annaba,Algeria,Badji Mokhtar-Annaba University,100.0,https://openalex.org/I108754898,13978,262392,143,6476,1.7175870858113849
+U000219,"Balochistan University of Engineering and Technology, Khuzdar",Pakistan,Balochistan University of Engineering and Technology,92.85714285714286,https://openalex.org/I4210156098,558,6434,33,178,2.1255411255411256
+U000221,"Bamidele Olumilua University of Education, Science and Technology, Ikere-Ikiti",Nigeria,"Bamidele Olumilua University of Education, Science and Technology",91.42857142857143,https://openalex.org/I4405256297,0,0,0,0,0.0
+U000232,Barawa International University,Somalia,Arab International University,93.33333333333333,https://openalex.org/I2801484940,2707,6430,38,174,0.2651139742319128
+U000241,Bayero University,Nigeria,Baker University,90.9090909090909,https://openalex.org/I82462995,488,9317,47,150,1.8928571428571428
+U000260,Belgorod State National Research University,Russian Federation,Belgorod National Research University,92.5,https://openalex.org/I120938084,9419,171088,146,3348,1.3438485804416405
+U000267,Bernardo O’Higgins University,Chile,Universidad Bernardo O'Higgins,91.52542372881356,https://openalex.org/I4210086410,5328,102245,113,2252,2.0470193115029387
+U000277,Bilecik Şeyh Edebali University,Turkey,Bilecik Şeyh Edebali Üniversitesi,91.80327868852459,https://openalex.org/I169255954,7055,70856,87,1716,1.814384508990318
+U000303,Bozok University,Turkey,BOKU University,90.32258064516128,https://openalex.org/I92869138,29110,2218715,409,35666,3.744510978043912
+U000312,Brunel University London,United Kingdom,Brunel University of London,94.11764705882352,https://openalex.org/I59433898,52928,3263503,508,48017,3.732330696340085
+U000335,Canadian University Dubai,United Arab Emirates,Canadian University of Dubai,94.33962264150944,https://openalex.org/I186129607,1830,29683,71,593,3.062444246208742
+U000336,Cankaya University,Turkey,Çankaya University,97.14285714285714,https://openalex.org/I106245021,8302,172011,150,3356,1.5871382636655949
+U000348,Catania University,Italy,University of Catania,92.3076923076923,https://openalex.org/I39063666,76614,4813848,451,94044,3.670370592828398
+U000357,CBS International Business School,Germany,International Business School,93.5483870967742,https://openalex.org/I4210096710,124,1154,12,13,0.5277777777777778
+U000358,Ceará State University,Brazil,Caraga State University,90.9090909090909,https://openalex.org/I210563421,1996,10664,37,230,0.4669051878354204
+U000371,Centro Universitário Cesuca,Brazil,Centro Universitário Cesumar,94.54545454545455,https://openalex.org/I3018588415,5775,32362,63,735,0.4329924650161464
+U000375,CES University,Colombia,CECOS University,93.33333333333333,https://openalex.org/I4210112203,1519,31382,77,695,3.91480996068152
+U000407,"China University of Geosciences, Wuhan",China,China University of Geosciences,91.17647058823529,https://openalex.org/I3124059619,67289,3878467,383,77352,5.148838425338014
+U000416,Chittagong University of Engineering and Technology,Bangladesh,Chittagong University of Engineering & Technology,95.91836734693877,https://openalex.org/I102782458,6350,137839,130,2927,2.577348522370811
+U000422,Christian-Albrechts-University zu Kiel,Germany,Christian-Albrechts-Universität zu Kiel,96.1038961038961,https://openalex.org/I32021983,96884,7030588,686,94905,2.469430624654505
+U000436,"City University of Science and Information Technology, Peshawar",Pakistan,City University of Science and Information Technology,92.17391304347827,https://openalex.org/I3132053282,1546,43363,93,902,2.712998712998713
+U000437,Civil Aviation Academy,Kazakhstan,Academy of Civil Aviation,93.61702127659575,https://openalex.org/I4210158296,417,1251,14,32,0.7528604118993135
+U000440,Claude Bernard University Lyon 1,France,Université Claude Bernard Lyon 1,98.41269841269842,https://openalex.org/I100532134,209116,17690216,984,260583,3.20496058450298
+U000445,Colegio de México,Mexico,El Colegio de México,91.89189189189189,https://openalex.org/I150673438,12176,50611,81,1113,0.6432306798373039
+U000453,Comenius University in Bratislava,Slovakia,Comenius University Bratislava,95.23809523809523,https://openalex.org/I74788687,45672,2690551,405,46805,2.772228637413395
+U000474,CY Cergy Paris University,France,CY Cergy Paris Université,97.95918367346938,https://openalex.org/I4210142324,20860,487808,229,8999,1.7567567567567568
+U000478,Czech University of Life Sciences in Prague,Czech Republic,Czech University of Life Sciences Prague,96.3855421686747,https://openalex.org/I205984670,23935,843723,237,18834,3.071518390443257
+U000481,D. Serikbayev East Kazakhstan Technical University,Kazakhstan,D. Serikbayev East Kazakhstan State Technical University,94.23076923076923,https://openalex.org/I4210117727,1712,15913,39,445,1.5856189770200149
+U000513,Diego Portales University,Chile,Universidad Diego Portales,90.19607843137256,https://openalex.org/I911713783,11496,237385,170,4515,3.1293808411214954
+U000514,Dijlah University,Iraq,Dilla University,90.9090909090909,https://openalex.org/I4210136909,4444,72587,88,1944,2.425618434429007
+U000522,Donetsk National University of Economics and Trade named after Mykhailo Tuhan-Baranovsky (DonNUET),Ukraine,Donetsk National University of Economics and Trade named after Mykhailo Tugan-Baranovsky,94.56521739130434,https://openalex.org/I4210137366,903,4299,31,64,0.2918149466192171
+U000541,Duzce University,Turkey,Duke University,90.32258064516128,https://openalex.org/I170897317,268715,29710350,1407,305229,3.4871443226607632
+U000544,EAN University,Colombia,Esan University,96.55172413793103,https://openalex.org/I1291453478,1648,10711,45,251,2.017361111111111
+U000552,EBS Business School,Germany,ESE Business School,94.73684210526316,https://openalex.org/I4405261252,0,0,0,0,0.0
+U000554,École de Psychologues Praticiens,France,École de Psychologues Praticien,98.36065573770492,https://openalex.org/I4387156194,239,1574,19,33,0.4848484848484848
+U000562,"École Nationale Supérieure Agronomique, Algiers",Algeria,École Nationale Supérieure Agronomique,90.2439024390244,https://openalex.org/I4210150961,2593,48956,90,1129,1.1117092866756393
+U000563,École Nationale Supérieure de Biotechnologie Taoufik Khaznadar (ENSB),Algeria,Ecole Nationale Supérieure de Biotechnologie Taoufik Khaznadar,90.625,https://openalex.org/I4405255789,0,0,0,0,0.0
+U000565,École Nationale Supérieure des Sciences de la Mer et de l’Aménagement du Littoral (ENSSMAL),Algeria,Ecole Nationale Supérieure des Sciences de la Mer et de l'Aménagement du Littoral,92.3076923076923,https://openalex.org/I4210143099,533,9067,40,223,1.2044444444444444
+U000571,École Normale Supérieure de Laghouat,Algeria,Ecole Normale Supérieure of Laghouat,90.14084507042254,https://openalex.org/I4405252934,0,0,0,0,0.0
+U000573,École Normale Supérieure d’Oran,Algeria,Ecole Normale Supérieure d'Oran,91.80327868852459,https://openalex.org/I4405265479,0,0,0,0,0.0
+U000577,Ecole Polytechnique,France,École Polytechnique,97.2972972972973,https://openalex.org/I142476485,64763,6531523,722,86289,3.1934438489343138
+U000584,École Supérieure en Sciences et Technologies de l’Informatique et du Numérique (ESTIN),Algeria,Ecole supérieure en science et technologies de l'informatique et du numérique,91.25,https://openalex.org/I4391012564,22,355,10,13,10.75
+U000611,ESCP Business School - Paris,France,EDC Paris Business School,94.11764705882352,https://openalex.org/I4405260284,0,0,0,0,0.0
+U000613,Escuela Superior Politécnica de Chimborazo,Ecuador,Escuela Superior Politécnica del Chimborazo,98.82352941176471,https://openalex.org/I4210137344,9005,41231,72,856,1.2702402957486136
+U000619,ESSEC Business School,France,ESE Business School,95.0,https://openalex.org/I4405261252,0,0,0,0,0.0
+U000620,"Essex, University of",United Kingdom,University of Essex,100.0,https://openalex.org/I110002522,49616,2082536,457,28157,5.594591671173608
+U000644,Federal University of Kashere,Nigeria,Federal University Kashere,94.54545454545455,https://openalex.org/I4210148832,1889,12297,49,239,0.7123287671232876
+U000645,Federal University of Lafia,Nigeria,Federal University Lafia,94.11764705882352,https://openalex.org/I2800437794,3768,30618,68,651,1.4740582800284292
+U000654,"Federal University of Petroleum Resources, Effurun",Nigeria,Federal University of Petroleum Resource Effurun,98.96907216494846,https://openalex.org/I891860020,2985,33111,66,825,2.3339494762784967
+U000660,Federal University of Technology Akure,Nigeria,"Federal University of Technology, Babura",93.5064935064935,https://openalex.org/I4405253586,0,0,0,0,0.0
+U000674,Fergana Polytechnic Institute,Uzbekistan,Ferghana Polytechnical Institute,95.08196721311475,https://openalex.org/I4210091792,4119,14700,35,454,1.673185105813019
+U000675,Fergana State University,Uzbekistan,Ferghana State University,97.95918367346938,https://openalex.org/I4210104713,2153,5771,30,146,0.8182669789227166
+U000679,Firat University,Turkey,Fırat University,93.75,https://openalex.org/I143396566,26633,951246,259,19418,2.5621219633118493
+U000688,Fluminense Federal University,Brazil,Universidade Federal Fluminense,90.0,https://openalex.org/I161127581,79561,1650155,275,38925,1.15829889695116
+U000714,Gadjah Mada University,Indonesia,Universitas Gadjah Mada,93.33333333333333,https://openalex.org/I165230279,76774,976594,199,24685,1.1097543915745718
+U000753,"Government College Women University, Sialkot",Pakistan,Government Sadiq College Women University,90.47619047619048,https://openalex.org/I2800060998,1832,24462,68,616,4.841113841113841
+U000759,Grenoble Alpes University,France,Université Grenoble Alpes,97.95918367346938,https://openalex.org/I899635006,160509,10855488,799,160979,1.925453573044802
+U000772,Gulf University for Science and Technology,Kuwait,Gulf University for Science & Technology,95.0,https://openalex.org/I179311214,4424,70553,100,1743,7.76657723265619
+U000814,"Higher National School of Renewable Energies, Environment and Sustainable Development",Algeria,"Higher National School of Renewable Energies, Environment & Sustainable Development",97.5609756097561,https://openalex.org/I4405256489,0,0,0,0,0.0
+U000816,Higher School of Management and Digital Economy (HSMDE),Algeria,The Higher School of Management and Digital Economy,90.38461538461539,https://openalex.org/I4405259000,0,0,0,0,0.0
+U000817,Higher School of Management – Tlemcen,Algeria,Higher School of Management of Tlemcen,95.89041095890411,https://openalex.org/I4405254071,0,0,0,0,0.0
+U000818,Hilla University College,Iraq,Hólar University College,91.66666666666666,https://openalex.org/I204557473,614,14584,51,363,1.203187250996016
+U000824,Hitit University,Turkey,IIMT University,90.32258064516128,https://openalex.org/I4405262983,0,0,0,0,0.0
+U000828,Hodeida University,Yemen,Hodeidah University,97.2972972972973,https://openalex.org/I31605765,1991,21636,63,534,4.04985754985755
+U000840,HSE University,Russia,He University,96.2962962962963,https://openalex.org/I4210097747,350,6357,37,191,1.7537313432835822
+U000858,Ibn Khaldoun University,Algeria,Université Ibn Khaldoun,97.77777777777777,https://openalex.org/I4210110732,1024,6358,36,155,0.5964523281596452
+U000866,Ilam University of Medical Sciences,Iran,Bam University of Medical Sciences,95.65217391304348,https://openalex.org/I4210121477,1880,65292,110,1003,4.498251748251748
+U000871,Ilmenau University of Technology,Germany,China University of Technology,90.32258064516128,https://openalex.org/I35357665,990,19109,64,410,1.1238938053097345
+U000877,Imam Mohammad Ibn Saud Islamic University – IMSIU,Saudi Arabia,Imam Mohammad ibn Saud Islamic University,93.18181818181819,https://openalex.org/I240666556,19750,315687,143,7895,3.885023028688752
+U000917,Inönü University,Turkey,Inonu University,90.32258064516128,https://openalex.org/I20126385,22344,625814,192,16035,1.7640715980159587
+U000919,Institut Agro,France,L'Institut Agro,92.85714285714286,https://openalex.org/I4399657933,4352,112135,99,2987,3.0530159588855827
+U000943,International Engineering and Technology University (METU),Kazakhstan,International Engineering and Technological University,90.9090909090909,https://openalex.org/I4405262318,0,0,0,0,0.0
+U000948,International IT University,Kazakhstan,INTI International University,96.42857142857143,https://openalex.org/I12649496,8797,81122,96,1914,3.4440104166666665
+U000972,Israel Technological University,Ecuador,Rizal Technological University,91.80327868852459,https://openalex.org/I3130505705,491,2080,17,31,0.4
+U000974,Istanbul Aydin University  ,Turkey,Istanbul Aydın University,92.0,https://openalex.org/I179948855,9871,161744,165,2852,1.6745625841184388
+U000976,Istanbul Bilgi Üniversitesi,Turkey,Istanbul Bilgi University,90.19607843137256,https://openalex.org/I118036225,5616,134924,136,2560,1.3879432624113477
+U000982,Istanbul Okan University,Turkey,Istanbul Kent University,91.66666666666666,https://openalex.org/I4210109286,1164,4875,27,160,1.193939393939394
+U000988,IUBAT – International University of Business Agriculture and Technology,Bangladesh,International University of Business Agriculture and Technology,95.45454545454545,https://openalex.org/I4210132231,2981,55706,98,1037,5.339197361187465
+U001013,Jaume I University,Spain,Universitat Jaume I,91.89189189189189,https://openalex.org/I10902133,30211,1589301,395,26167,2.5362704918032786
+U001018,Jean Moulin University – Lyon 3,France,Université Jean Moulin Lyon III,91.52542372881356,https://openalex.org/I874609350,16633,68939,99,1434,0.4152986377925253
+U001020,Jember University,Indonesia,Universitas Jember,91.42857142857143,https://openalex.org/I3129486149,29006,251769,142,5165,0.3088767214202754
+U001034,Johannes Gutenberg Universität Mainz,Germany,Johannes Gutenberg University Mainz,95.77464788732395,https://openalex.org/I197323543,141572,15980018,947,211117,3.7273050850199807
+U001035,Johannes Gutenberg University of Mainz,Germany,Johannes Gutenberg University Mainz,95.89041095890411,https://openalex.org/I197323543,141572,15980018,947,211117,3.7273050850199807
+U001036,Johannes Kepler University Linz,Austria,Johannes Kepler University of Linz,95.38461538461537,https://openalex.org/I121883995,36550,1598246,382,27519,2.550051681641091
+U001041,Jordan University of Science & Technology,Jordan,Jordan University of Science and Technology,95.1219512195122,https://openalex.org/I156983542,27864,993436,251,21123,3.039417828987265
+U001055,KAIST - Korea Advanced Institute of Science & Technology,South Korea,Korea Advanced Institute of Science and Technology,90.19607843137256,https://openalex.org/I157485424,115338,9184972,684,147385,5.0748882265275705
+U001070,Karaganda State Technical University,Kazakhstan,Fergana State Technical University,91.42857142857143,https://openalex.org/I4405261140,0,0,0,0,0.0
+U001077,Karolinska Institute,Sweden,Karolinska Institutet,97.5609756097561,https://openalex.org/I28166907,233550,30297832,1442,353100,3.718001147566637
+U001081,Karunya Institute of Technology and Sciences,India,Karume Institute of Science and Technology,93.02325581395348,https://openalex.org/I4405258167,0,0,0,0,0.0
+U001090,Kazakh National Pedagogical University Abai,Kazakhstan,Abai Kazakh National Pedagogical University,100.0,https://openalex.org/I4210128045,4477,23181,46,573,1.0805880751429349
+U001092,Kazakhstan Medical University KSPH,Kazakhstan,Kazakhstan Medical University,92.06349206349206,https://openalex.org/I4210128576,1540,10475,42,261,1.4558047493403694
+U001107,Khalifa University,United Arab Emirates,Haliç University,90.9090909090909,https://openalex.org/I25010766,3240,27730,71,605,1.8612580834803056
+U001117,Khomein University of Medical Sciences,Iran,Hamedan University of Medical Sciences,92.10526315789474,https://openalex.org/I112312016,16024,525375,176,12999,2.839248674809864
+U001127,King Abdullah University of Science & Technology (KAUST),Saudi Arabia,King Abdullah University of Science and Technology,94.11764705882352,https://openalex.org/I71920554,48668,4878940,668,60538,7.12962662073896
+U001130,King Fahd University of Petroleum & Minerals,Saudi Arabia,King Fahd University of Petroleum and Minerals,95.45454545454545,https://openalex.org/I134085113,46836,2112021,374,41298,6.003926550409978
+U001148,"KIT, Karlsruhe Institute of Technology",Germany,Karlsruhe Institute of Technology,94.28571428571428,https://openalex.org/I102335020,166481,11150921,732,177917,2.808292838365331
+U001151,KL University,India,KLE University,96.2962962962963,https://openalex.org/I4210125823,8829,164132,125,4051,1.4738400789733466
+U001160,Kochi University,Japan,University of Kochi,91.42857142857143,https://openalex.org/I201954162,2845,67320,107,1638,0.9065693430656936
+U001177,Korkyt Ata Kyzylorda University,Kazakhstan,Korkyt Ata Kyzylorda State University,91.17647058823529,https://openalex.org/I4210129744,1222,7143,39,187,1.2701252236135958
+U001196,Kyiv National Economic University,Ukraine,National Economics University,90.32258064516128,https://openalex.org/I138622004,4552,73310,100,1745,2.8715651135005973
+U001197,Kyoai Gakuen University,Japan,Tokai Gakuen University,91.30434782608697,https://openalex.org/I175135595,718,25663,87,422,1.7751937984496124
+U001222,Lappeenranta-Lahti University of Technology LUT,Finland,Lappeenranta-Lahti University of Technology,95.55555555555556,https://openalex.org/I63548447,20558,1119562,332,18200,3.369694397283532
+U001236,Liaquat University of Medical and Health Sciences (LUMHS),Pakistan,Liaquat University of Medical & Health Sciences,90.0,https://openalex.org/I1318157472,5356,52763,79,1446,0.75
+U001244,Liverpool Institute for Performing Arts,United Kingdom,The Liverpool Institute for Performing Arts,95.1219512195122,https://openalex.org/I2800582552,76,720,15,16,0.6176470588235294
+U001248,Lobachevsky State University of Nizhni Novgorod,Russian Federation,N. I. Lobachevsky State University of Nizhny Novgorod,93.87755102040816,https://openalex.org/I79563041,15141,307304,144,7627,1.49689624593556
+U001257,London School of Hygiene and Tropical Medicine,United Kingdom,London School of Hygiene & Tropical Medicine,95.45454545454545,https://openalex.org/I4210089966,114679,10418195,1057,94232,3.5370298886070364
+U001268,"Lumière University, Lyon 2",France,Université Lumière Lyon 2,97.95918367346938,https://openalex.org/I188626449,14503,91254,113,1924,0.7611382581201495
+U001273,M. Auezov South Kazakhstan University,Kazakhstan,M.Auezov South Kazakhstan State University,92.3076923076923,https://openalex.org/I4210151108,2932,24746,44,706,1.1156572164948453
+U001282,Maharishi Markandeshwar University (MMU),India,"Maharishi Markandeshwar University, Mullana",92.5,https://openalex.org/I155284866,9769,201048,148,4055,2.0581517305675328
+U001289,Malaviya National Institute of Technology,India,National Institute of Technology Meghalaya,93.97590361445783,https://openalex.org/I9523339,4916,78101,88,1915,2.0093896713615025
+U001299,Mapúa University,Philippines,Hama University,90.32258064516128,https://openalex.org/I4405255411,0,0,0,0,0.0
+U001308,Martin-Luther-Universität Halle-Wittenberg,Germany,Martin Luther University Halle-Wittenberg,96.3855421686747,https://openalex.org/I68956291,81095,3578812,511,60814,2.5794346713141985
+U001319,Medical University of Gdańsk,Poland,Gdańsk Medical University,94.33962264150944,https://openalex.org/I75124487,28045,1281539,337,26397,2.5701519213583555
+U001321,Medical University of Innsbruck,Austria,Innsbruck Medical University,94.91525423728814,https://openalex.org/I143397708,38541,4233132,560,59230,2.969723495185624
+U001340,MGIMO University,Russia,ITMO University,90.32258064516128,https://openalex.org/I173089394,28005,788217,257,15834,2.338311688311688
+U001344,"Michael Okpara University of Agriculture, Umudike",Nigeria,Michael Okpara University of Agriculture,90.9090909090909,https://openalex.org/I98220444,8905,94726,81,2354,1.2770096086243263
+U001374,Montpellier University,France,Université Montpellier 1,93.33333333333333,https://openalex.org/I4387153574,0,0,0,0,0.0
+U001379,Moscow Pedagogical State University,Russia,Moscow State Pedagogical University,100.0,https://openalex.org/I157338126,11284,121366,112,2303,0.5937926330150068
+U001386,Moscow Technical University of Communications and Informatics,Russian Federation,Moscow Technical University of Communication and Informatics,99.17355371900827,https://openalex.org/I4210110898,2719,30223,40,1090,2.146681539319576
+U001404,Nagoya University of Commerce & Business,Japan,Nagoya University of Commerce and Business,95.0,https://openalex.org/I1314707548,795,10750,48,211,1.5330188679245282
+U001479,National University Odessa Law Academy,Ukraine,National University Odesa Law Academy,98.66666666666667,https://openalex.org/I3130802236,3427,9383,30,217,0.5937328202308961
+U001483,National University of Costa Rica,Costa Rica,Latin University of Costa Rica,92.06349206349206,https://openalex.org/I4210150661,667,14173,44,110,1.043189368770764
+U001484,National University of Cuyo,Argentina,National University of Jujuy,90.9090909090909,https://openalex.org/I313030,3382,50816,84,1070,1.210075026795284
+U001495,National University of San Martín,Argentina,National University of San Marcos,90.9090909090909,https://openalex.org/I192513696,44145,316423,163,6518,0.729328165374677
+U001497,"National University of Science and Technology, Oman",Oman,National University of Science and Technology,94.73684210526316,https://openalex.org/I4405254421,0,0,0,0,0.0
+U001504,"National University, Sudan",Sudan,Uman National University,93.87755102040816,https://openalex.org/I4210117736,1795,6529,24,127,0.3399014778325123
+U001506,National University “Yuri Kondrautyuk Poltava Polytechnic,Ukraine,"National University ""Yuri Kondratyuk Poltava Polytechnic""",99.09909909909909,https://openalex.org/I278735395,2684,12635,37,324,0.6769759450171822
+U001510,Navoi State Pedagogical Institute,Uzbekistan,Komi State Pedagogical Institute,92.3076923076923,https://openalex.org/I4210101877,32,190,8,7,0.0
+U001524,Niğde Ömer Halisdemir University,Turkey,Niğde Ömer Halisdemir Üniversitesi,92.06349206349206,https://openalex.org/I198265615,11585,207024,150,4463,1.952245965983428
+U001549,"Northeastern University, US",United States,Northeastern University,93.87755102040816,https://openalex.org/I12912129,82804,6451737,686,84530,4.713854367232627
+U001552,Northern Borders University,Saudi Arabia,Northern Border University,98.11320754716981,https://openalex.org/I118590987,10809,143892,111,3698,4.500983538668599
+U001568,Notre Dame University-Louaize NDU,Lebanon,Notre Dame University – Louaize,93.5483870967742,https://openalex.org/I60770847,2134,58996,95,921,3.0068965517241377
+U001577,Nueva Granada Military University,Colombia,Military University Nueva Granada,100.0,https://openalex.org/I41047195,9378,62043,75,1490,0.8034660766961652
+U001582,Óbuda University,Hungary,Obuda University,96.7741935483871,https://openalex.org/I103356709,8758,124018,115,2912,3.62188809465122
+U001588,Odessa I.I. Mechnikov National University,Ukraine,Odesa I. I. Mechnikov National University,98.73417721518987,https://openalex.org/I181840440,7494,92069,102,2034,0.6384180790960452
+U001602,Ondokuz Mayis University,Turkey,Ondokuz Mayıs University,91.66666666666666,https://openalex.org/I227306068,31810,703388,189,17745,1.6975169300225734
+U001607,Oran 1 University,Algeria,Soran University,90.9090909090909,https://openalex.org/I32706565,2796,50743,105,1080,3.4380012338062924
+U001611,Oregon Health and Science University,United States,Oregon Health & Science University,94.11764705882352,https://openalex.org/I165690674,121443,12398857,951,134667,2.2225605817322776
+U001623,Osaka University,Japan,AKAD University,90.32258064516128,https://openalex.org/I4210124604,131,740,14,24,0.40625
+U001628,Otto von Guericke University of Magdeburg,Germany,Otto-von-Guericke-Universität Magdeburg,92.5,https://openalex.org/I95793202,49546,2600795,407,43243,2.3744879309258207
+U001632,Pablo de Olavide University,Spain,Universidad Pablo de Olavide,90.9090909090909,https://openalex.org/I95013407,20365,756556,251,12987,2.371753986332574
+U001640,Panthéon-Assas University (Paris 2),France,Université Paris-Panthéon-Assas,95.23809523809523,https://openalex.org/I117841876,13073,56041,97,1082,0.7383966244725738
+U001641,Panthéon-Sorbonne University – Paris 1,France,Université Paris 1 Panthéon-Sorbonne,98.59154929577466,https://openalex.org/I51101395,56725,506561,217,8879,1.489817897004112
+U001644,Paris Nanterre University,France,Université Paris Nanterre,97.95918367346938,https://openalex.org/I40434647,45899,325980,184,6051,0.9351755041075428
+U001645,Paris-Saclay University,France,Université Paris-Saclay,97.77777777777777,https://openalex.org/I277688954,164530,14794213,1104,203663,3.678048449276128
+U001647,Paris-Sud University,France,Université Paris-Sud,97.43589743589743,https://openalex.org/I102197404,108506,18407742,1196,201135,2.08238851095994
+U001650,Paul Valéry University Montpellier,France,Université Paul-Valéry Montpellier,98.50746268656717,https://openalex.org/I208215962,13533,90241,115,1620,0.761049723756906
+U001652,Pavlov First Saint Petersburg State Medical University,Russian Federation,First Pavlov State Medical University of St. Petersburg,94.44444444444444,https://openalex.org/I2799540354,10418,190972,138,3513,0.9820092985647868
+U001669,Pharos University,Egypt,ARS University,90.32258064516128,https://openalex.org/I4391768133,2651,9955,35,198,0.1801261829652997
+U001689,Polytechnic University of Turin,Italy,Turin Polytechnic University,94.91525423728814,https://openalex.org/I4210142780,4307,23870,54,538,0.7205623901581723
+U001691,Pompeu Fabra University,Spain,Universitat Pompeu Fabra,93.61702127659575,https://openalex.org/I170486558,51382,4453803,711,42454,3.5332081670969258
+U001699,Pontifical Javeriana University,Colombia,Pontifical Lateran University,90.0,https://openalex.org/I37677194,685,4815,40,105,0.5764705882352941
+U001705,Pontificia Universidad Catolica Madre y Maestra,Dominican Republic,Pontificia Universidad Católica Madre y Maestra,97.87234042553192,https://openalex.org/I159110448,1626,16575,63,382,1.250965250965251
+U001715,Poznan University of Life Sciences,Poland,University of Life Sciences in Poznań,94.28571428571428,https://openalex.org/I55783418,21953,562410,185,14235,2.789706106289021
+U001730,Prydniprovska State Academy of Civil Engineering and Architecture,Ukraine,Prydniprovs’ka State Academy of Civil Engineering and Architecture,96.18320610687023,https://openalex.org/I4210096669,1355,7634,36,177,0.5338491295938105
+U001745,Qom University of Medical Sciences,Iran,PAMO University of Medical Sciences,92.7536231884058,https://openalex.org/I4391767791,324,3347,28,96,1.0633802816901408
+U001763,Rajshahi University,Bangladesh,University of Rajshahi,92.6829268292683,https://openalex.org/I902853133,15906,425670,180,9581,3.3321352244025646
+U001767,RCSI University of Medicine and Health Sciences,Ireland,University of Medicine and Health Sciences,94.3820224719101,https://openalex.org/I264019182,899,10254,40,249,1.1160220994475138
+U001779,Riga Stradins University,Latvia,Riga Stradiņš University,95.65217391304348,https://openalex.org/I4210126294,8433,157256,133,3578,1.954511558538404
+U001791,Rovira i Virgili University,Spain,Universitat Rovira i Virgili,94.54545454545455,https://openalex.org/I55952717,36337,2623012,421,44388,2.6923704307852008
+U001804,RUDN University,Russia,Arden University,90.32258064516128,https://openalex.org/I4210143921,705,8701,44,167,2.9206349206349205
+U001805,Ruhr-Universität Bochum,Germany,Ruhr University Bochum,93.33333333333333,https://openalex.org/I904495901,121089,7511428,640,126135,2.8999217948091305
+U001814,"Rutgers, The State University of New Jersey, Camden",United States,"Rutgers, The State University of New Jersey",92.3076923076923,https://openalex.org/I102322142,251021,21397152,1131,271329,3.5048593432281407
+U001825,Sabancı University,Turkey,Saba University,93.75,https://openalex.org/I4210160202,653,7773,50,167,1.505050505050505
+U001826,Sabanci University,Turkey,Saba University,90.9090909090909,https://openalex.org/I4210160202,653,7773,50,167,1.505050505050505
+U001851,Samarkand State Medical University,Uzbekistan,Samara State Medical University,95.38461538461537,https://openalex.org/I4210127240,6087,42429,67,928,0.6154169292165511
+U001852,Samarkand State University,Uzbekistan,Samara State University,93.87755102040816,https://openalex.org/I4387156369,0,0,0,0,0.0
+U001902,Shaheed Zulfiqar Ali Bhutto Medical University,Pakistan,"Shaheed Zulfiqar Ali Bhutto Medical University, Islamabad",90.19607843137256,https://openalex.org/I4405254472,0,0,0,0,0.0
+U001912,Shahrood University of Technology,Iran,Sahand University of Technology,90.625,https://openalex.org/I107853901,7995,321829,154,7872,4.504971376920759
+U001934,Showa University,Japan,Chowan University,90.9090909090909,https://openalex.org/I75722487,133,1783,21,34,1.6153846153846154
+U001937,"Siberian Federal University, SibFU",Russia,Siberian Federal University,90.0,https://openalex.org/I4853710,15824,276955,148,6749,1.673972106502445
+U001967,"Solent University, Southampton",United Kingdom,Southampton Solent University,100.0,https://openalex.org/I156118397,2526,48463,94,1011,3.0062015503875967
+U001976,Sorbonne University,France,Sorbonne Université,97.2972972972973,https://openalex.org/I39804081,393446,36438131,1475,452305,3.903368360443357
+U002001,SRUC (Scotland’s Rural College),United Kingdom,Scotland's Rural College,90.56603773584906,https://openalex.org/I260719752,6890,281718,203,4700,2.820473644003056
+U002005,St. Louis University,United States,Saint Louis University,92.6829268292683,https://openalex.org/I187476118,3727,120491,157,1796,1.784586228679722
+U002011,Staffordshire University,United Kingdom,University of Staffordshire,94.11764705882352,https://openalex.org/I198012923,11604,362495,209,6271,2.5131313131313133
+U002052,SWPS University of Social Sciences and Humanities,Poland,VNU University of Social Sciences and Humanities,90.72164948453609,https://openalex.org/I4405262989,0,0,0,0,0.0
+U002074,Tarlac Agricultural University,Philippines,Kerala Agricultural University,90.0,https://openalex.org/I54021868,5592,64568,86,1442,0.8844651162790698
+U002076,Tashkent Institute of Chemical Technology,Uzbekistan,Tashkent Chemical-Technological Institute,90.2439024390244,https://openalex.org/I4210136103,2251,6567,29,211,0.913317191283293
+U002078,Tashkent Institute of Irrigation and Agricultural Mechanisation,Uzbekistan,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers,91.17647058823529,https://openalex.org/I4210109462,7053,72911,65,2275,1.8499804916113929
+U002091,Tashkent University of Information Technologies,Uzbekistan,Tashkent University of Information Technology,95.65217391304348,https://openalex.org/I21256249,5240,28271,45,824,1.139751552795031
+U002097,Technical University of Cartagena,Spain,Technical University of Crete,90.32258064516128,https://openalex.org/I55741626,11533,601379,273,9559,2.4376976597090447
+U002102,Technical University of Kosice,Slovakia,Technical University of Košice,90.0,https://openalex.org/I183764125,19349,431386,156,11096,1.977263661747108
+U002104,Technical University of Loja,Ecuador,Technical University of Moldova,91.52542372881356,https://openalex.org/I177823932,3823,74884,123,1243,1.4793650793650794
+U002146,The American University in Cairo,Egypt,American University in Cairo,93.33333333333333,https://openalex.org/I80693520,11744,293592,164,6681,3.174635701275045
+U002147,The Australian National University,Australia,Australian National University,93.75,https://openalex.org/I118347636,192008,14473177,1062,167482,4.173798695961865
+U002148,The British University in Dubai,United Arab Emirates,British University in Dubai,93.10344827586206,https://openalex.org/I193260172,2163,62638,108,1114,3.695821185617104
+U002149,The British University in Egypt,Egypt,British University in Egypt,93.10344827586206,https://openalex.org/I154023281,6976,131381,111,3243,3.1590848629954773
+U002150,The Catholic University of America,United States,Catholic University of America,93.75,https://openalex.org/I84470341,33938,1865987,405,27396,2.713590342679128
+U002151,The Catholic University of Korea ,South Korea,Catholic University of Korea,93.33333333333333,https://openalex.org/I87111246,53755,3284732,338,75755,2.8190031556650674
+U002153,"The ""Gheorghe Asachi"" Technical University of Iasi",Romania,Gheorghe Asachi Technical University of Iași,91.30434782608697,https://openalex.org/I4210108695,15422,329545,155,7976,1.813931656027037
+U002156,The Hashemite University,Jordan,Hashemite University,90.9090909090909,https://openalex.org/I157392197,13468,302496,170,6587,3.269460206605558
+U002157,The Hebrew University of Jerusalem,Israel,Hebrew University of Jerusalem,93.75,https://openalex.org/I197251160,147928,11170311,842,151107,2.704542755344418
+U002159,The Hong Kong Polytechnic University,Hong Kong SAR,Hong Kong Polytechnic University,94.11764705882352,https://openalex.org/I14243506,152491,9262185,651,145908,6.690398343414528
+U002160,The Hong Kong University of Science and Technology,Hong Kong SAR,Hong Kong University of Science and Technology,95.83333333333334,https://openalex.org/I200769079,94210,8564486,746,110001,6.46152405916495
+U002162,The Islamia University of Bahawalpur,Pakistan,Islamia University of Bahawalpur,94.11764705882352,https://openalex.org/I174731842,21408,670397,215,14607,5.365879973027647
+U002163,The Islamic University,Iraq,Islamic University,90.0,https://openalex.org/I40279923,15977,143096,119,3310,1.5867524602573808
+U002164,The Jikei University School of Medicine,Japan,Jikei University School of Medicine,94.5945945945946,https://openalex.org/I115498069,26828,1489803,316,29634,1.8178056889545624
+U002165,The John Paul II Catholic University of Lublin,Poland,John Paul II Catholic University of Lublin,95.45454545454545,https://openalex.org/I111702420,15580,118245,117,2530,1.7213500784929356
+U002167,The LNM Institute of Information Technology,India,LNM Institute of Information Technology,95.1219512195122,https://openalex.org/I33552525,2135,42973,76,1097,1.8830462375339985
+U002168,The London School of Economics and Political Science (LSE),United Kingdom,London School of Economics and Political Science,92.3076923076923,https://openalex.org/I909854389,73094,2697578,546,31737,2.9904131251235424
+U002170,The National University of Ostroh Academy,Ukraine,National University Ostroh Academy,90.66666666666666,https://openalex.org/I3130895234,921,2359,21,46,0.2533333333333333
+U002171,The National University of Science and Technology MISIS,Russia,National University of Science and Technology,90.0,https://openalex.org/I4405254421,0,0,0,0,0.0
+U002175,The Rockefeller University,United States,Rockefeller University,91.66666666666666,https://openalex.org/I83399316,45412,12879036,1169,83785,6.75041782729805
+U002178,The University of Aizu,Japan,University of Aizu,90.0,https://openalex.org/I141591182,8695,236177,185,4476,3.599264705882353
+U002179,The University of Alabama,United States,University of South Alabama,92.3076923076923,https://openalex.org/I83809506,21872,1410209,384,19659,1.9292219204345744
+U002180,The University of Arizona,United States,University of Arizona,91.30434782608697,https://openalex.org/I138006243,259568,22824158,1266,267392,3.8012330940193295
+U002181,The University of Auckland,New Zealand,University of Auckland,91.66666666666666,https://openalex.org/I154130895,141721,9843689,764,135174,3.3378772272019988
+U002182,The University of Chicago,United States,University of Chicago,91.30434782608697,https://openalex.org/I40347166,306617,34391647,1625,320271,4.143974850734889
+U002184,The University of Edinburgh,United Kingdom,University of Edinburgh,92.0,https://openalex.org/I98677209,280399,25927521,1329,280444,3.9146779588481073
+U002185,The University of Electro-Communications,Japan,University of Electro-Communications,94.73684210526316,https://openalex.org/I20529979,30483,867287,264,17670,2.3151053339309726
+U002186,The University of Exeter,United Kingdom,University of Exeter,90.9090909090909,https://openalex.org/I23923803,116755,7404521,795,88024,3.7862103174603177
+U002187,The University of Georgia,United States,University of Georgia,91.30434782608697,https://openalex.org/I4210126868,1211,18311,65,368,4.320366132723112
+U002188,The University of Hong Kong,Hong Kong SAR,University of Hong Kong,92.0,https://openalex.org/I889458895,229042,21888471,1163,272210,4.89807209622426
+U002189,The University of Jordan,Jordan,University of Jordan,90.9090909090909,https://openalex.org/I114972647,38089,1073112,271,22571,3.5555609028345927
+U002190,The University of Lahore,Pakistan,University of Lahore,90.9090909090909,https://openalex.org/I142204992,22131,491437,204,10503,5.066817434210527
+U002191,The University of Manchester,United Kingdom,University of Manchester,92.3076923076923,https://openalex.org/I28407311,313219,28666738,1236,351562,3.651800779053055
+U002195,The University of Northampton,United Kingdom,University of Northampton,92.5925925925926,https://openalex.org/I35870678,6876,165753,144,2822,1.9811178247734136
+U002198,The University of Sheffield,United Kingdom,University of Sheffield,92.0,https://openalex.org/I91136226,190139,15829041,980,199189,3.6181974282425022
+U002199,The University of Shiga Prefecture,Japan,University of Shiga Prefecture,93.75,https://openalex.org/I139159150,4700,106385,101,2682,1.1868958109559613
+U002201,"The University of Tennessee, Knoxville",United States,University of Tennessee at Knoxville,90.41095890410959,https://openalex.org/I75027704,147326,10510562,763,147178,3.093772893772894
+U002204,The University of the West Indies,Jamaica,University of the West Indies,93.5483870967742,https://openalex.org/I4210129319,5502,359164,182,3769,3.25
+U002206,The University of Tulsa,United States,University of Tulsa,90.47619047619048,https://openalex.org/I87208437,18707,692334,266,12397,2.306921944035346
+U002207,The University of Warwick,United Kingdom,University of Warwick,91.30434782608697,https://openalex.org/I39555362,139398,9045557,772,122032,3.72432915921288
+U002210,The World Islamic Sciences and Education University (WISE),Jordan,World Islamic Sciences and Education University,91.2621359223301,https://openalex.org/I3132651366,1505,19674,65,447,2.480446927374301
+U002214,Tikrit University,Iraq,University of Tikrit,91.89189189189189,https://openalex.org/I72539421,12958,81150,88,2020,1.1855830205771969
+U002239,Tomas Bata University in Zlin,Czech Republic,Tomas Bata University in Zlín,93.10344827586206,https://openalex.org/I165737746,8482,311654,154,7308,3.158326016973953
+U002247,Torcuato Di Tella University,Argentina,Universidad Torcuato Di Tella,91.22807017543859,https://openalex.org/I232641801,3475,70389,123,983,1.6073211314475873
+U002273,Turkmen State Architecture and Construction Institute,Turkmenistan,Turkmen State Institute of Architecture and Construction,97.24770642201834,https://openalex.org/I2897726969,308,785,13,17,0.4947368421052631
+U002290,Ulm University,Germany,IULM University,96.55172413793103,https://openalex.org/I200420086,2360,53209,107,829,1.2570579494799403
+U002292,Ulster University,United Kingdom,University of Ulster,91.89189189189189,https://openalex.org/I138801177,61629,3532397,500,54927,3.1051476793248947
+U002296,Umea University,Sweden,Umeå University,96.55172413793103,https://openalex.org/I90267481,84697,7524015,731,102100,2.690629886532216
+U002307,Universidad Alberto Hurtado,Chile,Alberto Hurtado University,90.56603773584906,https://openalex.org/I3129804457,5944,35815,71,883,0.552423900789177
+U002308,Universidad Anáhuac México,Mexico,Universidad Anáhuac México Sur,92.85714285714286,https://openalex.org/I210606318,388,4753,33,83,4.995098039215686
+U002330,Universidad Camilo José Cela,Spain,Camilo José Cela University,90.56603773584906,https://openalex.org/I59946547,3013,78758,98,1438,2.0175953079178885
+U002332,Universidad Católica Andres Bello,Venezuela,Universidad Católica Andrés Bello,93.93939393939394,https://openalex.org/I234019344,3620,5199,32,120,0.3890274314214463
+U002337,Universidad Católica de La Santísima Concepción - UCSC,Chile,Universidad Católica de la Santísima Concepción,94.94949494949495,https://openalex.org/I38685851,7560,97116,97,2492,2.088216761184625
+U002348,"Universidad Central ""Marta Abreu"" de Las Villas",Cuba,"Universidad Central ""Marta Abreu"" de las Villas (UCLV)",94.73684210526316,https://openalex.org/I3018837529,10772,111958,106,2434,0.5301587301587302
+U002357,Universidad de Cartagena,Colombia,Universidad de Cartago,91.30434782608697,https://openalex.org/I4210163654,38,153,5,3,0.1666666666666666
+U002359,Universidad de Chile,Chile,Universidad del Cine,90.0,https://openalex.org/I4210125970,115,655,14,27,0.064516129032258
+U002371,Universidad de La Salle,Colombia,Universidad La Salle,93.02325581395348,https://openalex.org/I4387155938,0,0,0,0,0.0
+U002372,Universidad de La Serena,Chile,Universidad de la Sierra,91.66666666666666,https://openalex.org/I4210120417,963,7112,33,182,4.483606557377049
+U002388,Universidad de Panama,Panama,Universidad de Panamá,97.5609756097561,https://openalex.org/I106845459,9242,77840,102,1670,0.4768716577540107
+U002389,Universidad de Panamá - UP,Panama,Universidad de Panamá,93.02325581395348,https://openalex.org/I106845459,9242,77840,102,1670,0.4768716577540107
+U002393,Universidad de San Carlos de Guatemala - USAC,Guatemala,Universidad de San Carlos de Guatemala,93.82716049382715,https://openalex.org/I156341307,7681,56710,103,1051,0.548710050057759
+U002394,Universidad de Santander - UDES,Colombia,Universidad De Santander,90.56603773584906,https://openalex.org/I4210150934,3435,87430,115,1085,1.0015495867768596
+U002398,Universidad de Talca,Chile,Universidad del Tacana,90.47619047619048,https://openalex.org/I4210140344,335,9859,49,251,1.6363636363636365
+U002404,Universidad del Cauca,Colombia,Universidad del Alica,90.47619047619048,https://openalex.org/I4210145070,13,1219,24,24,0.0
+U002420,Universidad ICESI,Colombia,Universidad CES,93.75,https://openalex.org/I4210128920,3261,51698,73,948,1.405298013245033
+U002442,Universidad Nacional de Córdoba - UNC,Argentina,Universidad Nacional de Córdoba,93.93939393939394,https://openalex.org/I166401450,43404,1469276,302,30766,1.7059635798739967
+U002446,Universidad Nacional de la Asunción,Paraguay,Universidad Nacional de Asunción,95.52238805970148,https://openalex.org/I8379220,9464,158750,130,2614,0.7273560689402273
+U002448,Universidad Nacional de Mar del Plata,Argentina,Universidad Nacional de La Plata,92.7536231884058,https://openalex.org/I874386039,68068,2529544,406,51890,1.665191655651974
+U002449,Universidad Nacional de Quilmes,Argentina,Universidad Nacional de Tumbes,91.80327868852459,https://openalex.org/I4210132758,1094,6323,32,155,0.5941676792223572
+U002451,Universidad Nacional de Río Cuarto - UNRC,Argentina,Universidad Nacional de Río Cuarto,93.15068493150685,https://openalex.org/I15366983,8502,409549,185,9587,2.000751314800901
+U002453,Universidad Nacional de San Luis,Argentina,Universidad Nacional del Santa,90.32258064516128,https://openalex.org/I4210132264,1239,7305,30,201,0.8361581920903954
+U002467,UNIVERSIDAD POLITECNICA SALESIANA,Ecuador,Politecnica Salesiana University,92.3076923076923,https://openalex.org/I3132940433,6503,66047,79,1485,1.049162730785745
+U002482,Universidad Tecnológica de Pereira,Colombia,Universidad Tecnológica del Perú,92.3076923076923,https://openalex.org/I4210148428,4546,16925,48,446,1.2168746286393346
+U002484,Universidad Tecnológica Nacional (UTN),Argentina,Universidad Nacional Tecnológica,94.11764705882352,https://openalex.org/I4210137073,709,2975,26,77,0.2393162393162393
+U002488,Universidade Católica Portuguesa - UCP,Portugal,Universidade Católica Portuguesa,94.11764705882352,https://openalex.org/I25169866,16091,600417,274,9875,2.9599315556823043
+U002527,Universidade Federal do Estado do Rio de Janeiro - UNIRIO,Brazil,Universidade Federal do Estado do Rio de Janeiro,93.20388349514563,https://openalex.org/I83648350,38153,427829,182,9897,0.6437284471666066
+U002529,Universidade Federal do Parà - UFPA,Brazil,Universidade Federal do Paraná,91.80327868852459,https://openalex.org/I52418104,107832,2555080,346,58794,1.1870377674785524
+U002531,Universidade Federal do Paraná - UFPR,Brazil,Universidade Federal do Paraná,92.06349206349206,https://openalex.org/I52418104,107832,2555080,346,58794,1.1870377674785524
+U002557,Universita IULM,Italy,IULM University,93.33333333333333,https://openalex.org/I200420086,2360,53209,107,829,1.2570579494799403
+U002559,Università Vita-Salute San Raffaele,Italy,Vita-Salute San Raffaele University,98.55072463768117,https://openalex.org/I154387261,43631,4554310,596,62829,4.247578330542932
+U002561,Universitas Airlangga,Indonesia,Airlangga University,92.6829268292683,https://openalex.org/I205133468,60532,662717,161,16195,1.0444036475145255
+U002562,Universitas Andalas,Indonesia,Andalas University,91.89189189189189,https://openalex.org/I55892964,34058,248362,117,5322,0.5422442499806397
+U002565,Universitas Hasanuddin,Indonesia,Hasanuddin University,93.02325581395348,https://openalex.org/I98301867,40727,383427,128,8518,0.7938157173468879
+U002567,Universitas Islam Indonesia,Indonesia,Universitas Muslim Indonesia,90.9090909090909,https://openalex.org/I4210116576,14353,61617,64,1314,0.2799097065462754
+U002568,Universitas Islam Sultan Agung,Indonesia,Sultan Agung Islamic University,91.80327868852459,https://openalex.org/I4210108557,10474,46221,62,1084,0.2383784974664023
+U002570,Universitas Mercu Buana,Indonesia,Mercu Buana University,93.33333333333333,https://openalex.org/I177671886,17497,102594,78,2628,0.4073755201607117
+U002571,Universitas Muhammadiyah Surakarta,Indonesia,Universitas Muhammadiyah Surabaya,92.53731343283582,https://openalex.org/I4210158925,4457,18602,37,371,0.3777386048854192
+U002572,Universitas Muhammadiyah Yogyakarta,Indonesia,Muhammadiyah University of Yogyakarta,91.66666666666666,https://openalex.org/I226567900,18790,113652,80,2598,0.6242226120236007
+U002574,Universitas Negeri Yogyakarta,Indonesia,Universitas PGRI Yogyakarta,92.85714285714286,https://openalex.org/I4210127278,4217,22352,46,426,0.3358024691358025
+U002575,Universitas Padjadjaran,Indonesia,Padjadjaran University,93.33333333333333,https://openalex.org/I91819753,54309,667415,164,15641,1.2804317766180473
+U002577,Universitas Sebelas Maret,Indonesia,Sebelas Maret University,93.87755102040816,https://openalex.org/I119896790,57468,460512,130,11094,0.6389780572534189
+U002578,Universitas Sriwijaya,Indonesia,Sriwijaya University,92.6829268292683,https://openalex.org/I271888150,34073,245146,95,6067,0.4245252842478699
+U002587,Universität Duisburg-Essen,Germany,University of Duisburg-Essen,92.5925925925926,https://openalex.org/I62318514,85230,5139231,586,82737,2.8651996188954114
+U002589,Universität Heidelberg,Germany,Heidelberg University,93.02325581395348,https://openalex.org/I223822909,317450,42325242,1595,477315,4.038389664321144
+U002593,Universität Konstanz,Germany,University of Konstanz,90.47619047619048,https://openalex.org/I189712700,49015,3289604,511,49311,2.6751204435960365
+U002594,Universität  Leipzig,Germany,Leipzig University,91.89189189189189,https://openalex.org/I926574661,127805,6324858,688,95944,1.1630489106209394
+U002595,Universität Mannheim,Germany,University of Mannheim,90.47619047619048,https://openalex.org/I177802217,33603,1459611,395,17738,2.5957355466514023
+U002612,Université Chouaïb Doukkali,Morocco,Chouaib Doukkali University,90.56603773584906,https://openalex.org/I4210125507,10353,250770,148,6029,3.1919069542040224
+U002615,Université d’Ain Témouchent,Algeria,Université de ain Témouchent,98.11320754716981,https://openalex.org/I4210163438,1569,16125,54,419,3.487964989059081
+U002629,Université de Paris,France,Université Paris 8,91.42857142857143,https://openalex.org/I48825208,45256,346660,218,5638,0.5673503912032142
+U002630,Université de Paris-Cité,France,Université Paris Cité,92.6829268292683,https://openalex.org/I204730241,358364,40036926,1652,458546,4.921276274766167
+U002632,Université de Rennes 1,France,Université de Rennes,95.0,https://openalex.org/I56067802,84161,4169122,479,74305,5.01004069524208
+U002641,Université de Tunis El Manar,Tunisia,Tunis El Manar University,92.3076923076923,https://openalex.org/I63596082,38498,900582,203,23181,1.4452997124529972
+U002643,Université Diderot  Paris 7,France,Université Paris Diderot,95.83333333333334,https://openalex.org/I4387154366,870,384,9,8,0.0
+U002645,Université d’Oran 2 Mohamed Ben Ahmed,Algeria,University of Oran 2 Mohamed Ben Ahmed,91.89189189189189,https://openalex.org/I4387155300,432,1034,19,40,1.892307692307692
+U002648,Université Frères Mentouri Constantine 1,Algeria,University Frères Mentouri Constantine 1,98.73417721518987,https://openalex.org/I125485651,14009,245892,140,6441,2.1101542877646216
+U002652,Université Jean Moulin Lyon 3,France,Université Jean Moulin Lyon III,93.10344827586206,https://openalex.org/I874609350,16633,68939,99,1434,0.4152986377925253
+U002655,Universite libre de Bruxelles,Belgium,Université Libre de Bruxelles,98.24561403508771,https://openalex.org/I132053463,101873,9202694,830,118037,3.623642589271156
+U002661,Université Mouloud Mammeri de Tizi-Ouzou,Algeria,Mouloud Mammeri University of Tizi-Ouzou,91.13924050632912,https://openalex.org/I4210159538,6841,97464,108,2379,1.264761188416698
+U002670,Université Paul Sabatier Toulouse III,France,Université Toulouse III - Paul Sabatier,100.0,https://openalex.org/I134560555,107377,9259349,746,130380,4.159381643904724
+U002679,Université Toulouse 1 Capitole,France,Université Toulouse Capitole,96.42857142857143,https://openalex.org/I4405259414,0,0,0,0,0.0
+U002695,Universiti Sultan Zainal Abidin,Malaysia,Sultan Zainal Abidin University,96.7741935483871,https://openalex.org/I51569856,12199,187384,120,4366,1.923338529120023
+U002700,Universiti Teknologi MARA - UiTM,Malaysia,Universiti Teknologi MARA,90.9090909090909,https://openalex.org/I82724352,77756,1371636,257,31342,1.046988694758479
+U002728,University of Adelaide,Australia,Adelaide University,92.6829268292683,https://openalex.org/I4405259444,0,0,0,0,0.0
+U002731,University of Ahmed Draia,Algeria,Ahmed Draia University,93.61702127659575,https://openalex.org/I22223346,2199,31725,76,729,2.0981848184818483
+U002735,"University of Alabama, Birmingham",United States,University of Alabama at Birmingham,95.52238805970148,https://openalex.org/I32389192,155888,15925982,980,196467,2.783360402368104
+U002741,University of Algiers 1,Algeria,University of Algiers 3,95.65217391304348,https://openalex.org/I4210107086,2444,20519,51,411,0.8508495909376966
+U002748,University of Antioquia,Colombia,University of Antique,90.9090909090909,https://openalex.org/I3132855970,354,2284,19,30,0.4954954954954955
+U002751,University of Applied Sciences and Arts of Western Switzerland,Switzerland,HES-SO University of Applied Sciences and Arts Western Switzerland,93.75,https://openalex.org/I173439891,10945,275266,173,6001,2.8082133784928027
+U002753,University of Arkansas,United States,University of Kansas,95.23809523809523,https://openalex.org/I146416000,115527,7809046,691,112646,2.677987376273132
+U002754,University of Arkansas Fayetteville ,United States,University of Arkansas at Fayetteville,95.89041095890411,https://openalex.org/I78715868,57185,2818502,442,47690,2.297447968285431
+U002764,University of Bari,Italy,University of Bahri,97.2972972972973,https://openalex.org/I4210148209,1812,15473,46,409,1.422976501305483
+U002789,University of Bolton,United Kingdom,University of Bologna,92.6829268292683,https://openalex.org/I9360294,220281,18473245,896,291470,2.9953808660167764
+U002791,University of Bordeaux,France,Université Bordeaux-I,90.47619047619048,https://openalex.org/I4396570533,1,55,1,1,0.0
+U002804,University of Cadiz,Spain,University of Aizu,91.89189189189189,https://openalex.org/I141591182,8695,236177,185,4476,3.599264705882353
+U002822,University of Campinas,Brazil,University of Kamina,90.47619047619048,https://openalex.org/I4210104488,195,2414,21,31,0.4366197183098591
+U002834,University of Central Lancashire,United Kingdom,University of Central Lancashire Cyprus,90.14084507042254,https://openalex.org/I4210108889,893,12840,52,255,2.141891891891892
+U002837,University of Cergy-Pontoise,France,Université de Cergy-Pontoise,90.9090909090909,https://openalex.org/I4387155829,0,0,0,0,0.0
+U002846,University of Clermont Auvergne,France,Université Clermont Auvergne,93.10344827586206,https://openalex.org/I198244214,62554,4898814,548,72225,3.1369209124711084
+U002848,University of Colima,Mexico,University of Coimbra,92.6829268292683,https://openalex.org/I76903346,95158,4901105,504,85450,2.847794822627037
+U002854,University of Colorado Denver/Anschutz Medical Campus,United States,University of Colorado Anschutz Medical Campus,92.92929292929293,https://openalex.org/I51713134,56640,4276064,615,59144,3.0382963493199715
+U002861,University of Côte d’Azur,France,Université Côte d'Azur,91.30434782608697,https://openalex.org/I201841394,50807,4578376,738,44918,4.78717090245016
+U002878,University of Djilali Bounaama Khemis Miliana,Algeria,Université Djilali Bounaama Khemis Miliana,95.34883720930233,https://openalex.org/I4210160578,1714,17202,59,408,1.853868194842407
+U002890,"University of Education, Lahore",Pakistan,Hue University of Education,91.22807017543859,https://openalex.org/I4210141768,877,10983,42,332,1.6649616368286444
+U002893,University of Engineering & Technology (UET) Lahore,Pakistan,University of Engineering and Technology Lahore,91.48936170212765,https://openalex.org/I142732210,16409,445523,190,10576,3.892861546048576
+U002894,"University of Engineering and Technology, Mardan",Pakistan,Mehran University of Engineering and Technology,95.74468085106383,https://openalex.org/I180291457,7137,158557,126,3669,3.1389073950699533
+U002910,University of Franca,Brazil,University of Africa,90.0,https://openalex.org/I4210151244,1138,4178,29,87,0.2953586497890295
+U002916,University of Galway,Ireland,University of Malaya,90.0,https://openalex.org/I33849332,109821,5900454,599,100755,3.1392182587815927
+U002924,University of Girona,Spain,University of Goroka,90.0,https://openalex.org/I165454206,260,3562,30,78,0.7350427350427351
+U002929,University of Granada,Spain,University of Granma,92.6829268292683,https://openalex.org/I4210147029,4501,19523,59,393,0.3297587131367292
+U002932,University of Greifswald,Germany,Universität Greifswald,91.30434782608697,https://openalex.org/I36522303,32704,2219463,490,32215,3.00659431240555
+U002941,University of Hail,Saudi Arabia,University of Ha'il,97.2972972972973,https://openalex.org/I4210088963,15980,393785,175,9888,5.311152960870475
+U002942,University of Hamburg,Germany,University of Bamberg,90.47619047619048,https://openalex.org/I94626330,15682,297536,197,5407,1.5795788997056823
+U002948,"University of Health Sciences, Turkey",Turkey,University of Tokyo Health Sciences,92.95774647887323,https://openalex.org/I4210117013,2824,175134,155,2567,3.562622309197652
+U002956,University of Hradec Kralove,Czech Republic,University of Hradec Králové,94.54545454545455,https://openalex.org/I75092371,11452,311135,177,6371,3.33590543424725
+U002966,University of Illinois at Urbana-Champaign,United States,University of Illinois Urbana-Champaign,96.2962962962963,https://openalex.org/I157725225,331163,32232224,1387,378640,3.588019100761884
+U002970,University of Innsbruck,Austria,Universität Innsbruck,90.9090909090909,https://openalex.org/I190249584,97145,6967109,709,99732,2.4495174191038824
+U002976,University of Jaén,Spain,University of Jhang,91.89189189189189,https://openalex.org/I4405264131,0,0,0,0,0.0
+U002995,University of Kiel,Germany,University of Jijel,91.89189189189189,https://openalex.org/I116970179,4363,90131,109,2061,2.635294117647059
+U003011,University of Lampung,Indonesia,Lampung University,92.3076923076923,https://openalex.org/I12833781,29774,174699,82,3904,0.3088637539735344
+U003031,University of Lleida,Spain,University of Blida,92.3076923076923,https://openalex.org/I83332908,8844,152881,126,3306,1.9016949152542373
+U003032,University of Lodz,Poland,University of Lomé,91.42857142857143,https://openalex.org/I4287427,10167,141630,124,3399,1.15222358938302
+U003033,University of Lorraine,France,University of Ilorin,90.47619047619048,https://openalex.org/I134542131,21789,384424,168,9379,2.22390289449113
+U003034,University of Los Lagos,Chile,University of Lagos,90.47619047619048,https://openalex.org/I197610006,27593,499656,188,12113,1.781554212823095
+U003042,University of Malaga,Spain,University of Malaya,95.0,https://openalex.org/I33849332,109821,5900454,599,100755,3.1392182587815927
+U003050,University of Manouba,Tunisia,University of Manitoba,93.02325581395348,https://openalex.org/I46247651,116345,7536178,636,119732,2.809256750370207
+U003052,University of Marburg,Germany,University of Maribor,90.47619047619048,https://openalex.org/I37696226,28646,1012535,288,19147,2.233398264565256
+U003057,University of Mascara,Algeria,University of Manara,92.6829268292683,https://openalex.org/I4405256833,0,0,0,0,0.0
+U003064,University of Medea,Algeria,University of Mendoza,90.0,https://openalex.org/I100084298,2562,55464,92,899,1.2510245901639343
+U003066,University of Medicine and Pharmacy Carol Davila,Romania,Carol Davila University of Medicine and Pharmacy,100.0,https://openalex.org/I162051807,25197,931209,283,18730,4.215654357734164
+U003068,University of Melbourne,Australia,The University of Melbourne,92.0,https://openalex.org/I165779595,343663,30562107,1269,384483,3.925608082411496
+U003074,University of Milan-Bicocca,Italy,University of Milano-Bicocca,98.18181818181819,https://openalex.org/I66752286,75501,5442568,627,79565,3.4164744732152217
+U003084,University of Missouri Saint Louis,United States,University of Missouri–St. Louis,95.38461538461537,https://openalex.org/I208333798,23319,1253399,349,18590,2.572272411396803
+U003096,University of Montreal,Canada,University of Montevallo,91.30434782608697,https://openalex.org/I6066122,786,16869,61,323,0.7987012987012987
+U003107,University of Naples Parthenope,Italy,Parthenope University of Naples,100.0,https://openalex.org/I183638586,13915,548826,214,10511,3.3173400673400675
+U003114,University of New Brunswick UNB,Canada,University of New Brunswick,93.10344827586206,https://openalex.org/I106938459,38307,1890804,381,29411,2.9528497976151407
+U003118,University of Newcastle,Australia,Newcastle University,93.02325581395348,https://openalex.org/I84884186,150733,11780356,885,149829,3.521880365678222
+U003122,University of Niš,Serbia,University of Nis,96.96969696969697,https://openalex.org/I152518017,26009,609627,198,14778,1.4814420929490588
+U003126,"University of North Carolina, Chapel Hill",United States,University of North Carolina at Chapel Hill,96.3855421686747,https://openalex.org/I114027177,353345,34641951,1591,345205,2.1402427572775014
+U003148,University of Oviedo,Spain,University of Toledo,90.0,https://openalex.org/I90871651,45818,2318575,462,34872,3.0012152637122256
+U003166,University of Petra,Jordan,University of Pretoria,92.6829268292683,https://openalex.org/I69552723,95956,3147407,419,61832,2.8918245091589045
+U003175,University of Porto,Portugal,University of Toronto,90.0,https://openalex.org/I185261750,552345,58216513,1775,651088,4.258194072569476
+U003181,"University of Professional Studies, Accra",Ghana,University of Professional Studies,91.89189189189189,https://openalex.org/I7589121,2573,29548,72,704,1.968724279835391
+U003189,University of Rennes 1,France,Université Rennes 1,90.0,https://openalex.org/I4405258264,0,0,0,0,0.0
+U003194,University of Rome II – Tor Vergata,Italy,University of Rome Tor Vergata,95.23809523809523,https://openalex.org/I116067653,94580,7765618,729,114860,4.378720863973082
+U003199,University of Saida,Algeria,University of Skikda,92.3076923076923,https://openalex.org/I98962006,4605,78938,100,1838,4.636940150614348
+U003225,University of Seville,Spain,University of Pikeville,90.9090909090909,https://openalex.org/I194184260,643,10169,44,199,1.8478964401294495
+U003288,University of Texas at Arlington,United States,The University of Texas at Arlington,94.11764705882352,https://openalex.org/I189196454,50036,3911467,491,59729,3.101012690680682
+U003289,University of Texas at Austin,United States,The University of Texas at Austin,93.5483870967742,https://openalex.org/I86519309,354102,23704793,1195,280242,0.7589981967053319
+U003290,University of Texas at Dallas,United States,The University of Texas at Dallas,93.5483870967742,https://openalex.org/I162577319,48394,3563931,532,50666,3.4865382161541407
+U003291,University of Texas at El Paso,United States,The University of Texas at El Paso,93.75,https://openalex.org/I164936912,33525,1395475,364,23044,1.9964618249534447
+U003292,University of Texas at San Antonio,United States,The University of Texas at San Antonio,94.44444444444444,https://openalex.org/I45438204,44124,2229666,443,33356,2.7676520708305548
+U003295,University of Texas Rio Grande Valley,United States,The University of Texas Rio Grande Valley,94.87179487179486,https://openalex.org/I2802326326,13080,1331972,448,8316,3.3947667804323096
+U003307,University of the Peloponnese,Greece,University of Peloponnese,92.5925925925926,https://openalex.org/I158716096,7423,150487,127,3147,2.607200257152041
+U003308,University of the Philippines,Philippines,University of the Philippines Cebu,92.06349206349206,https://openalex.org/I105333472,942,10813,48,228,0.4984615384615384
+U003319,University of Thi-Qar,Iraq,Thi Qar University,92.3076923076923,https://openalex.org/I202735123,11272,103844,92,2392,3.297371680198156
+U003322,University of Toulouse,France,University of Oulu,90.0,https://openalex.org/I98381234,75635,5807977,628,86050,3.190263323321925
+U003323,University of Tours,France,University of Tourism,95.0,https://openalex.org/I4210134015,985,3675,29,95,0.562358276643991
+U003333,University of Tunis,Tunisia,Tunis University,91.42857142857143,https://openalex.org/I108714496,32247,842457,203,21382,1.8504214133555617
+U003334,University of Tunis El Manar,Tunisia,Tunis El Manar University,94.33962264150944,https://openalex.org/I63596082,38498,900582,203,23181,1.4452997124529972
+U003337,University of Tuscia,Italy,University of Tulsa,92.3076923076923,https://openalex.org/I87208437,18707,692334,266,12397,2.306921944035346
+U003352,"University of Veterinary and Animal Sciences, Lahore",Pakistan,University of Veterinary and Animal Sciences,92.63157894736842,https://openalex.org/I79839403,11713,274836,159,6449,2.0108616944243303
+U003362,University of Warith Alanbiyaa,Iraq,University of Warith Al-Anbiyaa,98.36065573770492,https://openalex.org/I4392021143,2291,31774,70,850,8.55693950177936
+U003377,University of Witwatersrand,South Africa,University of the Witwatersrand,93.10344827586206,https://openalex.org/I192619145,102862,5175826,542,88121,3.0929425597201115
+U003395,University Paris 2 Panthéon-Assas,France,Université Paris-Panthéon-Assas,95.23809523809523,https://openalex.org/I117841876,13073,56041,97,1082,0.7383966244725738
+U003398,University Rey Juan Carlos,Spain,Universidad Rey Juan Carlos,90.56603773584906,https://openalex.org/I182083151,37084,1392266,306,25987,2.163367241274289
+U003399,University Ulm,Germany,IULM University,96.55172413793103,https://openalex.org/I200420086,2360,53209,107,829,1.2570579494799403
+U003405,Ural Federal University - UrFU,Russia,Ural Federal University,90.19607843137256,https://openalex.org/I130823665,40094,704806,177,19304,3.306253770359944
+U003413,Uşak University,Turkey,Saku University,93.33333333333333,https://openalex.org/I3130838600,128,1320,18,27,0.1860465116279069
+U003415,USI - Università della Svizzera italiana,Switzerland,Università della Svizzera italiana,94.28571428571428,https://openalex.org/I57201433,16544,821913,320,10855,4.740199731703681
+U003422,Uzbekistan State University of World Languages,Uzbekistan,Uzbek State University of World Languages,94.25287356321839,https://openalex.org/I4210102006,4222,1388,13,25,0.1306150656530753
+U003435,Veltech University,India,Zetech University,91.42857142857143,https://openalex.org/I3130743347,165,445,9,8,0.1983471074380165
+U003437,Verona University,Italy,VERN' University,93.75,https://openalex.org/I4210093284,438,2328,24,52,1.283236994219653
+U003443,"Vignan’s Foundation for Science, Technology and Research",India,"Vignan's Foundation for Science, Technology & Research",96.22641509433963,https://openalex.org/I149313025,8286,120745,113,2997,1.6749621889179156
+U003452,"Visvesvaraya National Institute of Technology, Nagpur",India,Visvesvaraya National Institute of Technology,92.78350515463917,https://openalex.org/I167153416,10287,299617,162,7000,1.9407534246575344
+U003454,VIT University,India,Venite University,90.32258064516128,https://openalex.org/I4405264262,0,0,0,0,0.0
+U003475,Wasit University,Iraq,University of Wasit,91.42857142857143,https://openalex.org/I39498419,5466,57248,90,1303,1.36597486115171
+U003515,Xuzhou Medical University,China,Wenzhou Medical University,90.19607843137256,https://openalex.org/I27781120,70907,4839220,403,106022,4.718732115342285
+U003546,"Yusuf Maitama Sule University, Kano",Nigeria,Maitama Sule University Kano,90.32258064516128,https://openalex.org/I4210099431,1180,10961,45,294,1.460093896713615
