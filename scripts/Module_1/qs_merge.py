@@ -1,17 +1,26 @@
 import re
 from pathlib import Path
 
-import pandas as pd  # type: ignore[import]
+import pandas as pd
 
 # ==========================================
 # QS Master Dataset Creation (2017–2026)
 # ==========================================
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-RAW_PATH = SCRIPT_DIR.parent / "datasets" / "raw" / "qs"
-OUTPUT_PATH = SCRIPT_DIR.parent / "datasets" / "final"
+ROOT_DIR = SCRIPT_DIR.parent.parent
+RAW_PATH = ROOT_DIR / "datasets" / "raw" / "qs"
+OUTPUT_PATH = ROOT_DIR / "datasets" / "final" / "intermediate"
 
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+
+csv_files = sorted(RAW_PATH.glob("*.csv"))
+
+if not csv_files:
+    raise FileNotFoundError(
+        f"No QS CSV files found in {RAW_PATH}. "
+        "Please verify that the dataset directory exists and contains CSV files."
+    )
 
 # ------------------------------------------
 # Common Column Mapping
@@ -83,7 +92,7 @@ all_data = []
 # Read every QS csv
 # ==========================================
 
-for file in sorted(RAW_PATH.glob("*.csv")):
+for file in csv_files:
 
     print(f"Reading : {file.name}")
 
@@ -424,9 +433,9 @@ remaining_columns = [
     if col not in priority_columns
 ]
 
-qs_master = qs_master[
-    priority_columns + sorted(remaining_columns)
-]
+qs_master = qs_master.reindex(
+    columns=priority_columns + sorted(remaining_columns)
+)
 
 print("\nFinal Columns")
 

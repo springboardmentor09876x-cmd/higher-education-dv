@@ -1,4 +1,4 @@
-# 🎓 Higher Education Dashboard
+# 🎓 Higher Education Performance Dashboard
 
 > Infosys Springboard EduVision_DV Internship Project
 
@@ -20,22 +20,38 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 
 ## 🚀 Current Progress
 
-### ✅ Module 1 – Data Collection
+### ✅ Module 1 – Dataset Preparation
 
-- Collected QS, THE, and Research datasets
-- Built automated data merging scripts
-- Created a unified master dataset
-- Generated Module 1 deliverables
+- Collected QS, THE and Research datasets
+- Generated QS, THE and Research master datasets
+- Merged datasets into a unified master dataset
+- Standardized schema across ranking systems
+- Recovered university and geographic information
+- Generated `university_raw_data.csv`
 
 ### ✅ Module 2 – Data Cleaning & Preprocessing
 
-- Merged duplicate attributes from multiple ranking systems
-- Removed redundant columns
-- Standardized textual data
-- Recovered static university information
-- Enriched geographical attributes (Country Code, Region, Continent)
-- Preserved historically accurate ranking metrics
-- Generated the final cleaned dataset (university_cleaned.csv) for Power BI dashboard development.
+- Performed missing value analysis
+- Applied rule-based data recovery
+- Applied statistical and iterative imputation
+- Applied Random Forest–based imputation for selected missing values
+- Recovered metadata across university records
+- Achieved **99.82% dataset completeness**
+- Generated `university_cleaned.csv`
+
+---
+
+## 📊 Final Dataset Summary
+
+| Metric | Value |
+|---------|------:|
+| Rows | 23,263 |
+| Columns | 36 |
+| Missing Values | 1,504 |
+| Missing Percentage | 0.18% |
+| Completeness | **99.82%** |
+
+---
 
 ## 📂 Project Structure
 
@@ -45,26 +61,28 @@ higher-education-dv/
 ├── datasets/
 │   ├── raw/
 │   │   ├── qs/
+│   │   ├── the/
 │   │   └── research/
 │   │
 │   └── final/
-│       ├── Module_1_Deliverables/
+│       ├── intermediate/
+│       │   ├── qs_master.csv
+│       │   ├── the_master.csv
+│       │   ├── research_master.csv
+│       │   ├── education_master.csv
 │       │   └── master_dataset.csv
 │       │
-│       ├── Module_2_Deliverables/
-│       │   └── university_cleaned.csv
+│       ├── Module_1_Deliverables/
+│       │   └── university_raw_data.csv
 │       │
-│       ├── education_master.csv
-│       ├── qs_master.csv
-│       ├── research_master.csv
-│       └── the_master.csv
+│       └── Module_2_Deliverables/
+│           └── university_cleaned.csv
 │
 ├── notebooks/
-│   └── Module_2/
-│       └── education_cleaning.ipynb
+│   ├── module1_dataset_preparation.ipynb
+│   └── education_data_quality_enhancement.ipynb
 │
 ├── scripts/
-│   └── Module_1/
 │
 ├── powerbi/
 │
@@ -77,6 +95,7 @@ higher-education-dv/
 - Python
 - Pandas
 - NumPy
+- Scikit-learn
 - Jupyter Notebook
 - Power BI
 - Git
@@ -94,13 +113,19 @@ higher-education-dv/
 
 ## 📌 Status
 
-🟢 **Modules 1 & 2 Completed**
+🟢 **Modules 1 & 2 Completed Successfully**
+
+Current Progress:
+- Dataset Integration ✅
+- Dataset Preparation ✅
+- Data Quality Enhancement ✅
+- Power BI Dashboard ⏳
 
 ## 📊 Progress
 
 | Module | Status |
 |---------|--------|
-| Module 1 – Data Collection | ✅ Completed |
+| Module 1 – Dataset Preparation | ✅ Completed |
 | Module 2 – Data Cleaning & Preprocessing | ✅ Completed |
 | Module 3 – Exploratory Data Analysis | ⏳ Pending |
 | Module 4 – Dashboard Development | ⏳ Pending |
@@ -112,15 +137,17 @@ higher-education-dv/
 
 ### Module 1
 
-- `master_dataset.csv`
+- `scripts/`
+- `module1_dataset_preparation.ipynb`
+- `university_raw_data.csv`
 
 ### Module 2
 
-- `education_cleaning.ipynb`
+- `education_data_quality_enhancement.ipynb`
 - `university_cleaned.csv`
 
 ---
 
 ## 📌 Repository Updates
 
-This repository will be updated progressively as each internship module is completed. The README and project structure will reflect the latest development status.
+This repository is actively maintained as part of the Infosys Springboard EduVision_DV Internship. Additional modules, Power BI dashboards, and analytical insights will be added as the project progresses.

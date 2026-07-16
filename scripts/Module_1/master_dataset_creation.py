@@ -1,24 +1,34 @@
 from pathlib import Path
-import pandas as pd # type: ignore[import]
+import pandas as pd
 
 # ==========================================
 # Module 1 - Final Master Dataset Creation
 # ==========================================
 
 SCRIPT_DIR = Path(__file__).resolve().parent
+ROOT_DIR = SCRIPT_DIR.parent.parent
 
-FINAL_PATH = SCRIPT_DIR.parent / "datasets" / "final"
-RAW_RESEARCH_PATH = SCRIPT_DIR.parent / "datasets" / "raw" / "research"
+INTERMEDIATE_PATH = ROOT_DIR / "datasets" / "final" / "intermediate"
+RAW_RESEARCH_PATH = ROOT_DIR / "datasets" / "raw" / "research"
 
-OUTPUT_PATH = FINAL_PATH / "Module_1_Deliverables"
+OUTPUT_PATH = INTERMEDIATE_PATH
 OUTPUT_PATH.mkdir(parents=True, exist_ok=True)
+
+for path_name, path_obj in [
+    ("education_master.csv", INTERMEDIATE_PATH / "education_master.csv"),
+    ("research_enrichment.csv", RAW_RESEARCH_PATH / "research_enrichment.csv"),
+]:
+    if not path_obj.exists():
+        raise FileNotFoundError(
+            f"Required input file '{path_name}' not found in {path_obj.parent}."
+        )
 
 # ==========================================
 # Read Datasets
 # ==========================================
 
 education_master = pd.read_csv(
-    FINAL_PATH / "education_master.csv",
+    INTERMEDIATE_PATH / "education_master.csv",
     low_memory=False
 )
 

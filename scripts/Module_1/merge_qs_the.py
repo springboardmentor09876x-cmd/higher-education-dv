@@ -6,9 +6,18 @@ import pandas as pd
 # ==========================================
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-
-FINAL_PATH = SCRIPT_DIR.parent / "datasets" / "final"
+ROOT_DIR = SCRIPT_DIR.parent.parent
+FINAL_PATH = ROOT_DIR / "datasets" / "final" / "intermediate"
 OUTPUT_PATH = FINAL_PATH
+
+for path_name, path_obj in [
+    ("qs_master.csv", FINAL_PATH / "qs_master.csv"),
+    ("the_master.csv", FINAL_PATH / "the_master.csv"),
+]:
+    if not path_obj.exists():
+        raise FileNotFoundError(
+            f"Required input file '{path_name}' not found in {FINAL_PATH}."
+        )
 
 # ------------------------------------------
 # Read Master Files
