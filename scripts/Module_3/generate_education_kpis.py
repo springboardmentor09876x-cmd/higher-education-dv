@@ -25,7 +25,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-
 # ============================================================
 # Paths
 # ============================================================
@@ -40,12 +39,7 @@ INPUT_FILE = (
     / "university_cleaned.csv"
 )
 
-OUTPUT_FOLDER = (
-    PROJECT_ROOT
-    / "datasets"
-    / "final"
-    / "Module_3_Deliverables"
-)
+OUTPUT_FOLDER = PROJECT_ROOT / "datasets" / "final" / "Module_3_Deliverables"
 
 OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
 
@@ -56,6 +50,7 @@ EXCEL_OUTPUT = OUTPUT_FOLDER / "university_final_dataset.xlsx"
 # ============================================================
 # Load Dataset
 # ============================================================
+
 
 def load_dataset() -> pd.DataFrame:
     """
@@ -79,6 +74,7 @@ def load_dataset() -> pd.DataFrame:
 # Required Columns Validation
 # ============================================================
 
+
 def validate_columns(df: pd.DataFrame) -> None:
     """
     Validate required columns.
@@ -100,10 +96,7 @@ def validate_columns(df: pd.DataFrame) -> None:
     missing = [c for c in required_columns if c not in df.columns]
 
     if missing:
-        raise ValueError(
-            "Missing required columns:\n"
-            + "\n".join(missing)
-        )
+        raise ValueError("Missing required columns:\n" + "\n".join(missing))
 
     print("✓ Required columns verified.")
 
@@ -111,6 +104,7 @@ def validate_columns(df: pd.DataFrame) -> None:
 # ============================================================
 # Utility Functions
 # ============================================================
+
 
 def min_max_scale(series: pd.Series) -> pd.Series:
     """
@@ -124,6 +118,7 @@ def min_max_scale(series: pd.Series) -> pd.Series:
         return pd.Series(100.0, index=series.index)
 
     return ((series - minimum) / (maximum - minimum)) * 100
+
 
 def log_min_max_scale(series: pd.Series) -> pd.Series:
     """
@@ -148,15 +143,13 @@ def log_min_max_scale(series: pd.Series) -> pd.Series:
 # KPI Functions
 # ============================================================
 
+
 def calculate_global_ranking_score(df: pd.DataFrame) -> None:
     """
     Create Global Ranking Score.
     """
 
-    df["Global Ranking Score"] = (
-        df["Overall Score"]
-        .round(2)
-    )
+    df["Global Ranking Score"] = df["Overall Score"].round(2)
 
 
 def calculate_research_impact_score(df: pd.DataFrame) -> None:
@@ -181,51 +174,38 @@ def calculate_research_impact_score(df: pd.DataFrame) -> None:
         + 0.20 * cpf_score
     ).round(2)
 
+
 def calculate_faculty_student_ratio(df: pd.DataFrame) -> None:
     """
     Create Faculty-to-Student Ratio.
     """
 
-    ratio = (
-        df["Faculty Count"]
-        / df["Student Population"]
-    )
+    ratio = df["Faculty Count"] / df["Student Population"]
 
     df["Faculty-to-Student Ratio"] = (
-        ratio.replace([np.inf, -np.inf], np.nan).round(6)
-    )
+        ratio.replace([np.inf, -np.inf], np.nan)
+    ).round(6)
 
 
-def calculate_international_student_percentage(
-    df: pd.DataFrame
-) -> None:
+def calculate_international_student_percentage(df: pd.DataFrame) -> None:
     """
     Create International Student Percentage.
     """
 
-    percentage = (
-        df["International Students"]
-        / df["Student Population"]
-        * 100
-    )
+    percentage = df["International Students"] / df["Student Population"] * 100
 
-    df["International Student Percentage"] = (
-        percentage
-        .replace([np.inf, -np.inf], np.nan)
-        .round(2)
-    )
+    df["International Student Percentage"] = percentage.replace(
+        [np.inf, -np.inf], np.nan
+    ).round(2)
 
 
-def calculate_academic_reputation_kpi(
-    df: pd.DataFrame
-) -> None:
+def calculate_academic_reputation_kpi(df: pd.DataFrame) -> None:
     """
     Create Academic Reputation KPI.
     """
 
     df["Academic Reputation KPI"] = (
-        df["Academic Reputation Score"]
-        .round(2)
+        df["Academic Reputation Score"].round(2)
     )
 
 
@@ -261,6 +241,7 @@ def calculate_research_productivity_index(df: pd.DataFrame) -> None:
 # KPI Pipeline
 # ============================================================
 
+
 def generate_kpis(df: pd.DataFrame) -> pd.DataFrame:
     """
     Generate all KPIs.
@@ -290,9 +271,11 @@ def generate_kpis(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
+
 # ============================================================
 # Export Dataset
 # ============================================================
+
 
 def export_dataset(df: pd.DataFrame) -> None:
     """
@@ -307,11 +290,7 @@ def export_dataset(df: pd.DataFrame) -> None:
 
     # Export Excel
     try:
-        df.to_excel(
-            EXCEL_OUTPUT,
-            index=False,
-            engine="openpyxl"
-        )
+        df.to_excel(EXCEL_OUTPUT, index=False, engine="openpyxl")
 
         print("✓ Excel exported successfully.")
         print(f"Location : {EXCEL_OUTPUT}")
@@ -326,6 +305,7 @@ def export_dataset(df: pd.DataFrame) -> None:
 # ============================================================
 # Summary
 # ============================================================
+
 
 def print_summary(df: pd.DataFrame) -> None:
     """
@@ -361,12 +341,19 @@ def print_summary(df: pd.DataFrame) -> None:
     print(f"CSV   : {CSV_OUTPUT}")
 
     try:
-        import openpyxl
+        import importlib
 
-        print(f"Excel : {EXCEL_OUTPUT}")
+        spec = importlib.util.find_spec("openpyxl")
+        if spec is not None:
+            print(f"Excel : {EXCEL_OUTPUT}")
+        else:
+            print("Excel : Not exported (openpyxl not installed)")
 
-    except ModuleNotFoundError:
-        print("Excel : Not exported (openpyxl not installed)")
+    except Exception:
+        print(
+            "Excel : Not exported (could not determine "
+            "openpyxl availability)"
+        )
 
     print("\nModule 3 completed successfully.")
     print("=" * 60)
@@ -375,6 +362,7 @@ def print_summary(df: pd.DataFrame) -> None:
 # ============================================================
 # Main
 # ============================================================
+
 
 def main():
     """
