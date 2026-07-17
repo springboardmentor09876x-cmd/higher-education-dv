@@ -1,5 +1,9 @@
 # 🎓 Higher Education Performance Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Status](https://img.shields.io/badge/Status-Module%203%20Completed-brightgreen)
+
 > Infosys Springboard EduVision_DV Internship Project
 
 ---
@@ -39,9 +43,7 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 - Achieved **99.82% dataset completeness**
 - Generated `university_cleaned.csv`
 
----
-
-## 📊 Final Dataset Summary
+### 📊 Final Dataset Summary
 
 | Metric | Value |
 |---------|------:|
@@ -50,6 +52,23 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 | Missing Values | 1,504 |
 | Missing Percentage | 0.18% |
 | Completeness | **99.82%** |
+
+### ✅ Module 3 – KPI Engineering
+
+#### KPIs Generated
+
+- Global Ranking Score
+- Research Impact Score
+- Faculty-to-Student Ratio
+- International Student Percentage
+- Academic Reputation KPI
+- Research Productivity Index
+
+#### Outputs
+
+- `generate_education_kpis.py`
+- `university_final_dataset.csv`
+- `university_final_dataset.xlsx`
 
 ---
 
@@ -75,14 +94,28 @@ higher-education-dv/
 │       ├── Module_1_Deliverables/
 │       │   └── university_raw_data.csv
 │       │
-│       └── Module_2_Deliverables/
-│           └── university_cleaned.csv
+│       ├── Module_2_Deliverables/
+│       │   └── university_cleaned.csv
+│       │
+│       └── Module_3_Deliverables/
+│           ├── university_final_dataset.csv
+│           └── university_final_dataset.xlsx
 │
 ├── notebooks/
-│   ├── module1_dataset_preparation.ipynb
-│   └── education_data_quality_enhancement.ipynb
+│   ├── Module_1/
+│   │   └── module1_dataset_preparation.ipynb
+│   │
+│   └── Module_2/
+│       └── education_data_quality_enhancement.ipynb
 │
 ├── scripts/
+│   ├── Module_1/
+│   │   ├── master_dataset_creation.py
+│   │   ├── merge_qs_the.py
+│   │   └── qs_merge.py
+│   │
+│   └── Module_3/
+│       └── generate_education_kpis.py
 │
 ├── powerbi/
 │
@@ -103,33 +136,38 @@ higher-education-dv/
 
 ---
 
-## 📅 Upcoming Modules
+## 📅 Upcoming Work
 
-- 📊 Module 3 – Exploratory Data Analysis
-- 📈 Module 4 – Dashboard Development
-- 🎯 Module 5 – Final Dashboard & Insights
+- Dashboard Planning
+- Power BI Prototype
+- Interactive Dashboard Development
+- Final Insights & Presentation
 
 ---
 
 ## 📌 Status
 
-🟢 **Modules 1 & 2 Completed Successfully**
+🟢 Modules 1–3 Completed Successfully
 
 Current Progress:
 - Dataset Integration ✅
 - Dataset Preparation ✅
-- Data Quality Enhancement ✅
-- Power BI Dashboard ⏳
+- Data Cleaning & Preprocessing ✅
+- KPI Engineering ✅
+- Dashboard Development ⏳
+
+---
 
 ## 📊 Progress
 
-| Module | Status |
-|---------|--------|
-| Module 1 – Dataset Preparation | ✅ Completed |
-| Module 2 – Data Cleaning & Preprocessing | ✅ Completed |
-| Module 3 – Exploratory Data Analysis | ⏳ Pending |
-| Module 4 – Dashboard Development | ⏳ Pending |
-| Module 5 – Final Dashboard & Insights | ⏳ Pending |
+| Module                                      | Status      |
+| ------------------------------------------- | ----------- |
+| Module 1 – Dataset Preparation              | ✅ Completed |
+| Module 2 – Data Cleaning & Preprocessing    | ✅ Completed |
+| Module 3 – KPI Engineering                  | ✅ Completed |
+| Module 4 – Dashboard Planning & Prototyping | ⏳ Pending   |
+| Module 5 – Dashboard Development            | ⏳ Pending   |
+
 
 ---
 
@@ -145,6 +183,12 @@ Current Progress:
 
 - `education_data_quality_enhancement.ipynb`
 - `university_cleaned.csv`
+
+### Module 3
+
+- `generate_education_kpis.py`
+- `university_final_dataset.csv`
+- `university_final_dataset.xlsx`
 
 ---
 
