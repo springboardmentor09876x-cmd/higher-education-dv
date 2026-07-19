@@ -1,112 +1,98 @@
-# 🎓 Higher Education Dashboard
+#  Higher Education Performance Dashboard
 
-## 📖 Project Overview
+##  Project Overview
 
-This project was developed as part of the **Infosys Springboard EduVision Internship** under the **Data Visualization** domain.
-
-The objective of this project is to collect, clean, integrate, and analyze global university ranking datasets from multiple sources to build an interactive Higher Education Dashboard.
+The Higher Education Performance Dashboard is a Data Visualization project that analyzes global university performance using data from multiple ranking sources. The project focuses on data collection, data cleaning, KPI engineering, and interactive dashboard creation to provide meaningful insights into higher education institutions worldwide.
 
 ---
 
-# 🚀 Project Modules
+##  Project Objectives
 
-## ✅ Module 1 – Data Collection
-
-### Completed Tasks
-
-- Collected university ranking datasets from multiple sources.
-- Loaded datasets using Python and Pandas.
-- Standardized column names and data formats.
-- Merged datasets into a unified master dataset.
-- Performed initial validation and consistency checks.
-- Exported the merged dataset.
+- Collect university ranking data from multiple sources.
+- Clean and preprocess the dataset.
+- Engineer meaningful KPIs for analysis.
+- Build an interactive Tableau dashboard.
+- Analyze university performance across countries and regions.
 
 ---
 
-## ✅ Module 2 – Data Cleaning & Preprocessing
+## 📂 Project Structure
 
-### Completed Tasks
-
-- Handled missing values.
-- Removed duplicate records.
-- Standardized column names.
-- Corrected data types.
-- Renamed columns according to project requirements.
-- Performed feature engineering.
-- Validated the cleaned dataset.
-- Exported the final cleaned dataset.
-
----
-
-# 📂 Repository Structure
-
-```text
-higher-education-dv/
+```
+Higher_Education_Project/
 │
 ├── datasets/
 │   ├── raw_data/
 │   └── processed_data/
-│       ├── merged data/
-│       └── cleaned data/
+│       ├── data collection/
+│       ├── data cleaning/
+│       └── KPI engineering/
 │
 ├── notebooks/
 │   ├── data_collection notebook/
-│   └── data cleaning notebook/
+│   ├── data cleaning notebook/
+│   └── kpi engineering notebook/
 │
 ├── scripts/
 │   ├── data collection script/
-│   └── data cleaning script/
+│   ├── data cleaning script/
+│   └── kpi engineering script/
 │
 └── README.md
 ```
 
 ---
 
-# 🛠️ Technologies Used
+##  Dataset Information
+
+- Universities Covered: **668**
+- Features: **38**
+- Missing Values: **0**
+- Duplicate Records: **0**
+
+---
+
+## Key Performance Indicators (KPIs)
+
+- 🌍 Global Ranking Score
+- 📚 Research Impact Score
+- 👨‍🏫 Faculty-to-Student Ratio
+- 🌐 International Student Percentage
+- ⭐ Academic Reputation Score
+- 🔬 Research Productivity Index
+
+---
+
+##  Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook
-- Git
-- GitHub
+- Tableau
+- Git & GitHub
 
 ---
 
-# 📈 Project Workflow
+##  Project Workflow
 
-```text
-Raw Datasets
-      │
-      ▼
-Data Collection
-      │
-      ▼
-Data Merging
-      │
-      ▼
-Data Cleaning & Preprocessing
-      │
-      ▼
-Exploratory Data Analysis
-      │
-      ▼
-Dashboard Development
-```
+1. Data Collection
+2. Data Cleaning
+3. KPI Engineering
+4. Dashboard Development
+5. Insights & Visualization
 
 ---
 
-# 📌 Current Status
+##  Project Status
 
-| Module | Status |
-|---------|--------|
-| ✅ Module 1 – Data Collection | Completed |
-| ✅ Module 2 – Data Cleaning & Preprocessing | Completed |
+- ✅ Module 1 – Data Collection
+- ✅ Module 2 – Data Cleaning
+- ✅ Module 3 – KPI Engineering
+- 🔄 Module 4 – Tableau Dashboard (In Progress)
 
 ---
 
-# 👩‍💻 Author
+## Author
 
 **S. Sai Dhejasvini**
-
-**Infosys Springboard EduVision Internship**
