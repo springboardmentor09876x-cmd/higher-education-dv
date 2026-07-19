@@ -48,7 +48,7 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 | Metric | Value |
 |---------|------:|
 | Rows | 23,263 |
-| Columns | 36 |
+| Columns | 41 |
 | Missing Values | 1,504 |
 | Missing Percentage | 0.18% |
 | Completeness | **99.82%** |
