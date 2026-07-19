@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
-![Status](https://img.shields.io/badge/Status-Module%203%20Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Module%204%20In%20Progress-yellow)
 
 > Infosys Springboard EduVision_DV Internship Project
 
@@ -43,12 +43,12 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 - Achieved **99.82% dataset completeness**
 - Generated `university_cleaned.csv`
 
-### 📊 Final Dataset Summary
+### 📊 Module_2 Dataset Summary
 
 | Metric | Value |
 |---------|------:|
 | Rows | 23,263 |
-| Columns | 41 |
+| Columns | 36 |
 | Missing Values | 1,504 |
 | Missing Percentage | 0.18% |
 | Completeness | **99.82%** |
@@ -69,6 +69,46 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 - `generate_education_kpis.py`
 - `university_final_dataset.csv`
 - `university_final_dataset.xlsx`
+
+### 📊 Final Dataset Summary
+
+| Metric | Value |
+|---------|------:|
+| Rows | 23,263 |
+| Columns | 41 |
+| Missing Values | 1,504 |
+| Missing Percentage | 0.18% |
+| Completeness | **99.82%** |
+
+### 🚧 Module 4 – Dashboard Planning & Prototyping
+
+#### Storyboards Completed
+
+- University Overview
+- Research Analytics
+
+#### Objectives
+
+- Designed dashboard wireframes before Power BI implementation
+- Defined KPI placement and visual hierarchy
+- Planned navigation and global filters
+- Standardized dashboard layout across pages
+
+#### Storyboard Files
+
+- `powerbi/Module_4/storyboard/dashboard_storyboard.drawio`
+- `powerbi/Module_4/storyboard/dashboard_storyboard.pdf`
+
+#### Preview
+
+##### University Overview
+
+![University Overview](powerbi/Module_4/storyboard/University_Overview.png)
+
+##### Research Analytics
+
+![Research Analytics](powerbi/Module_4/storyboard/Research_Analytics.png)
+
 
 ---
 
@@ -118,6 +158,14 @@ higher-education-dv/
 │       └── generate_education_kpis.py
 │
 ├── powerbi/
+│   └── Module_4/
+│       ├── storyboard/
+│       │   ├── dashboard_storyboard.drawio
+│       │   ├── dashboard_storyboard.pdf
+│       │   ├── University_Overview.png
+│       │   └── Research_Analytics.png
+│       │
+│       └── prototype/
 │
 └── README.md
 ```
@@ -138,7 +186,8 @@ higher-education-dv/
 
 ## 📅 Upcoming Work
 
-- Dashboard Planning
+- Complete Student Analytics storyboard
+- Complete Country Comparison storyboard
 - Power BI Prototype
 - Interactive Dashboard Development
 - Final Insights & Presentation
@@ -160,13 +209,13 @@ Current Progress:
 
 ## 📊 Progress
 
-| Module                                      | Status      |
-| ------------------------------------------- | ----------- |
-| Module 1 – Dataset Preparation              | ✅ Completed |
-| Module 2 – Data Cleaning & Preprocessing    | ✅ Completed |
-| Module 3 – KPI Engineering                  | ✅ Completed |
-| Module 4 – Dashboard Planning & Prototyping | ⏳ Pending   |
-| Module 5 – Dashboard Development            | ⏳ Pending   |
+| Module                                      | Status          |
+| ------------------------------------------- | -----------     |
+| Module 1 – Dataset Preparation              | ✅ Completed    |
+| Module 2 – Data Cleaning & Preprocessing    | ✅ Completed    |
+| Module 3 – KPI Engineering                  | ✅ Completed    |
+| Module 4 – Dashboard Planning & Prototyping | 🚧 In Progress  |
+| Module 5 – Dashboard Development            | ⏳ Pending      |
 
 
 ---
@@ -189,6 +238,11 @@ Current Progress:
 - `generate_education_kpis.py`
 - `university_final_dataset.csv`
 - `university_final_dataset.xlsx`
+
+### Module 4
+
+- `dashboard_storyboard.pdf`
+- `eduvision_prototype.pbix`
 
 ---
 
