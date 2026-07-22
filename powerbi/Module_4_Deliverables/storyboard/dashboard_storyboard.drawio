@@ -1,0 +1,430 @@
+<mxfile host="app.diagrams.net" pages="4">
+  <diagram name="University_Overview" id="hpypWEbo9P7e21a3oZIO">
+    <mxGraphModel dx="1195" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="920" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h1&gt;&amp;nbsp;EduVision Dashboard&lt;br&gt;&amp;nbsp;Higher Education Performance Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90" width="900" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Navigation&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="40" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Filters&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total Universities&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="170" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Countries Covered&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Overall Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Global Ranking&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Research Impact&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Intl Students %&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="820" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font&gt;&lt;font style=&quot;&quot;&gt;Top 10 Universities&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;by Global Ranking Score&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Horizontal Bar)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="100" width="770" x="170" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;World Map&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(Filled Map)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="460" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Overall Score Trend&lt;br&gt;Line Chart&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(Line Chart)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="640" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;University Comparison Table&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="770" x="170" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h3&gt;&lt;span style=&quot;font-size: 14.04px;&quot;&gt;Data Sources:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QS • THE • ARWU&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="900" x="40" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Year" vertex="1">
+          <mxGeometry height="30" width="50" x="760" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="50" x="820" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Region" vertex="1">
+          <mxGeometry height="30" width="50" x="880" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-size: 20px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Overview&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="50" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Students&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="50" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Countries&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="50" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Year&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="47" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Country&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="47" y="459" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Region&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="47" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;University&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="47" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-41" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="128" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-42" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="128" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-43" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="128" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="YU0sm5Wao0sPr_2-JEgD-46" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="128" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="nX_ZpjsLjUGBAavfTNf--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;University Overview Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="425" x="285" y="-120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XSR4l0ByhD0lqxtTVaKo" name="Research_Analytics">
+    <mxGraphModel dx="1195" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="920" x="320" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h1&gt;&amp;nbsp;EduVision Dashboard&lt;br&gt;&amp;nbsp;Higher Education Performance Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90" width="900" x="330" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="330" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Navigation&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="330" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="330" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Filters&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="330" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total Publications&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total Citation Count&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average h-index&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="720" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Research Impact Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="850" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Research Productivity Index&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="980" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Citations per Faculty Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1110" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font&gt;&lt;font style=&quot;&quot;&gt;Top 10 Universities&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;by Research Impact Score&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Horizontal Bar)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="100" width="770" x="460" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Publications vs Citations&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(Scatter Plot)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="460" x="460" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;Research Productivity Trend&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;(Line Chart)&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="930" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Research Performance Table&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="770" x="460" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h3&gt;&lt;span style=&quot;font-size: 14.04px;&quot;&gt;Data Sources:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QS • THE • ARWU&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="900" x="330" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Year" vertex="1">
+          <mxGeometry height="30" width="50" x="1050" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="50" x="1110" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Region" vertex="1">
+          <mxGeometry height="30" width="50" x="1170" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-size: 20px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Overview&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Students&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Countries&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Year&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Country&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="739" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Region&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;University&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="799" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-29" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-30" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="oH72Ry_zmcd2EuSopBL8-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="808" as="geometry" />
+        </mxCell>
+        <mxCell id="ANK8i2YYFWr-CRebndTg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Research Analytics Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="425" x="567.5" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x7xeXjdmMpL1fmQkdj1o" name="Student_Analytics ">
+    <mxGraphModel dx="1129" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="920" x="115" y="324" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h1&gt;&amp;nbsp;EduVision Dashboard&lt;br&gt;&amp;nbsp;Higher Education Performance Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90" width="900" x="125" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="125" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Navigation&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="125" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="125" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Filters&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="125" y="724" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total Student Population&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="255" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average Students to Staff Ratio&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="385" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average International Students %&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="515" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Avg Faculty-to-Student Ratio&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="645" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Female to Male Ratio&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="775" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Countries Represented&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="905" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;Student Population by University&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Horizontal Bar)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="100" width="770" x="255" y="524" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;International Students % by Country&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(Filled Map)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="460" x="255" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;Students to Staff Ratio Trend&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;(Line Chart)&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="725" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Student Statistics Table&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="770" x="255" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h3&gt;&lt;span style=&quot;font-size: 14.04px;&quot;&gt;Data Sources:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QS • THE • ARWU&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="900" x="125" y="899" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Year" vertex="1">
+          <mxGeometry height="30" width="50" x="845" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="50" x="905" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Region" vertex="1">
+          <mxGeometry height="30" width="50" x="965" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-size: 20px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Overview&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="135" y="514" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="135" y="549" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Students&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="135" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Countries&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="135" y="619" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Year&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="132" y="744" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Country&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="132" y="773" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Region&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="132" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;University&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="132" y="833" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-29" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="213" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-30" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="213" y="779" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="213" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="VpUAAFmrhQp8CYQx14h0-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="213" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="yTtlHT4A-yZUYwbH5JMI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Student Analytics Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="425" x="362.5" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dJVVEXLSc4mTVIdQnUji" name="Country_Comparison ">
+    <mxGraphModel dx="1355" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="630" width="920" x="320" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h1&gt;&amp;nbsp;EduVision Dashboard&lt;br&gt;&amp;nbsp;Higher Education Performance Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90" width="900" x="330" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Navigation&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="220" width="120" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Filters&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="330" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total Countries&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="460" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average Overall Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="590" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average Global Ranking Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="720" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average Research Impact Score&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="850" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Total University&amp;nbsp;&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="980" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;padding-bottom: 20px;&quot;&gt;&lt;b&gt;Average Academic Reputation&amp;nbsp;&lt;/b&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="1110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;Top Countries by Average Global Ranking Score&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Horizontal Bar)&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="100" width="770" x="460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Universities by Country&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(Filled Map)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="460" x="460" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;Average Overall Score Trend&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;(Line Chart)&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="160" width="300" x="930" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Country Comparison Table&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="770" x="460" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;h3&gt;&lt;span style=&quot;font-size: 14.04px;&quot;&gt;Data Sources:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;QS • THE • ARWU&lt;/span&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="40" width="900" x="330" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Year" vertex="1">
+          <mxGeometry height="30" width="50" x="1050" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Country" vertex="1">
+          <mxGeometry height="30" width="50" x="1110" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Region" vertex="1">
+          <mxGeometry height="30" width="50" x="1170" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-size: 20px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Overview&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Research&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Students&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Countries&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="80" x="340" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Year&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Country&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;Region&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;&amp;nbsp;University&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22" width="105" x="337" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-29" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="566" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-30" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="626" as="geometry" />
+        </mxCell>
+        <mxCell id="R7r2WTqgM-cJDs0oy4AZ-32" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;direction=west;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="20" x="418" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="E_rOmdsw9K3eUo99PJc--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h1&gt;Country Comparison Dashboard&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="80" width="425" x="567.5" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
