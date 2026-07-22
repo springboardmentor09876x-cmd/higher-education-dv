@@ -120,6 +120,13 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 - dashboard_storyboard.pdf
 - eduvision_prototype.pbix
 
+## 🖼️ Storyboard Preview
+
+### University Overview Storyboard
+
+![University Overview Storyboard](powerbi/Module_4_Deliverables/storyboard/University_Overview.png)
+
+
 ## 🖥️ Dashboard Preview
 
 ### University Overview Prototype
