@@ -2,9 +2,22 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
-![Status](https://img.shields.io/badge/Status-Module%204%20In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Module%204%20Completed-brightgreen)
 
 > Infosys Springboard EduVision_DV Internship Project
+
+---
+
+## 📈 Project Workflow
+
+Dataset Collection
+→ Data Cleaning
+→ KPI Engineering
+→ Dashboard Planning
+→ Dashboard Development
+→ Dashboard Integration
+→ Testing
+→ Documentation
 
 ---
 
@@ -43,7 +56,7 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 - Achieved **99.82% dataset completeness**
 - Generated `university_cleaned.csv`
 
-### 📊 Module_2 Dataset Summary
+### 📊 Module 2 Dataset Summary
 
 | Metric | Value |
 |---------|------:|
@@ -80,35 +93,38 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 | Missing Percentage | 0.18% |
 | Completeness | **99.82%** |
 
-### 🚧 Module 4 – Dashboard Planning & Prototyping
+#### ✅ Module 4 – Dashboard Planning & Prototyping
 
 #### Storyboards Completed
 
 - University Overview
 - Research Analytics
+- Student Analytics
+- Country Comparison
 
-#### Objectives
+#### Power BI Prototype Completed
 
-- Designed dashboard wireframes before Power BI implementation
-- Defined KPI placement and visual hierarchy
-- Planned navigation and global filters
-- Standardized dashboard layout across pages
+- University Overview Dashboard
 
-#### Storyboard Files
+#### Features Implemented
 
-- `powerbi/Module_4/storyboard/dashboard_storyboard.drawio`
-- `powerbi/Module_4/storyboard/dashboard_storyboard.pdf`
+- 6 KPI Cards
+- Interactive Slicers
+- Filled Map
+- Top 10 University Ranking
+- Overall Score Trend
+- University Comparison Table
 
-#### Preview
+#### Deliverables
 
-##### University Overview
+- dashboard_storyboard.pdf
+- eduvision_prototype.pbix
 
-![University Overview](powerbi/Module_4/storyboard/University_Overview.png)
+## 🖥️ Dashboard Preview
 
-##### Research Analytics
+### University Overview Prototype
 
-![Research Analytics](powerbi/Module_4/storyboard/Research_Analytics.png)
-
+![University Overview Dashboard](powerbi/Module_4_Deliverables/prototype/dashboard_preview.png)
 
 ---
 
@@ -158,7 +174,7 @@ higher-education-dv/
 │       └── generate_education_kpis.py
 │
 ├── powerbi/
-│   └── Module_4/
+│   └── Module_4_Deliverables/
 │       ├── storyboard/
 │       │   ├── dashboard_storyboard.drawio
 │       │   ├── dashboard_storyboard.pdf
@@ -166,6 +182,8 @@ higher-education-dv/
 │       │   └── Research_Analytics.png
 │       │
 │       └── prototype/
+│           ├── eduvision_prototype.pbix
+│           └── dashboard_preview.png
 │
 └── README.md
 ```
@@ -184,13 +202,14 @@ higher-education-dv/
 
 ---
 
-## 📅 Upcoming Work
+## 🚀 Next Milestones
 
-- Complete Student Analytics storyboard
-- Complete Country Comparison storyboard
-- Power BI Prototype
-- Interactive Dashboard Development
-- Final Insights & Presentation
+- Build Research Analytics Dashboard
+- Build Student Analytics Dashboard
+- Build Country Comparison Dashboard
+- Dashboard Integration
+- Testing & Validation
+- Final Documentation
 
 ---
 
@@ -203,7 +222,8 @@ Current Progress:
 - Dataset Preparation ✅
 - Data Cleaning & Preprocessing ✅
 - KPI Engineering ✅
-- Dashboard Development ⏳
+- Dashboard Planning & Prototyping ✅
+- Dashboard Development ⏳ (Research, Student & Country Dashboards)
 
 ---
 
@@ -214,7 +234,7 @@ Current Progress:
 | Module 1 – Dataset Preparation              | ✅ Completed    |
 | Module 2 – Data Cleaning & Preprocessing    | ✅ Completed    |
 | Module 3 – KPI Engineering                  | ✅ Completed    |
-| Module 4 – Dashboard Planning & Prototyping | 🚧 In Progress  |
+| Module 4 – Dashboard Planning & Prototyping | ✅ Completed    |
 | Module 5 – Dashboard Development            | ⏳ Pending      |
 
 
@@ -248,4 +268,4 @@ Current Progress:
 
 ## 📌 Repository Updates
 
-This repository is actively maintained as part of the Infosys Springboard EduVision_DV Internship. Additional modules, Power BI dashboards, and analytical insights will be added as the project progresses.
+This repository is actively maintained as part of the Infosys Springboard EduVision_DV Internship. Upcoming updates include additional interactive dashboards, dashboard integration, testing, documentation, and final project delivery.
