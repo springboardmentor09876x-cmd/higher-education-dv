@@ -141,4 +141,3 @@
 
 ---
 
-*Report generated as part of Module 2 data cleaning completion.*
