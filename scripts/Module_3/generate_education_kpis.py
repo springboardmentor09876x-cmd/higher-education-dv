@@ -144,12 +144,39 @@ def log_min_max_scale(series: pd.Series) -> pd.Series:
 # ============================================================
 
 
-def calculate_global_ranking_score(df: pd.DataFrame) -> None:
+def calculate_global_ranking_score(df):
     """
-    Create Global Ranking Score.
+    Converts QS ranks into numeric values and generates a
+    normalized Global Ranking Score (0-100).
+
+    Examples:
+        1           -> 1
+        551-600     -> 551
+        1201-1400   -> 1201
+        1401+       -> 1401
     """
 
-    df["Global Ranking Score"] = df["Overall Score"].round(2)
+    # Extract first numeric value from Rank
+    rank = (
+        df["Rank"]
+        .astype(str)
+        .str.extract(r"(\d+)", expand=False)
+    )
+
+    rank = pd.to_numeric(rank, errors="coerce")
+
+    # Store cleaned numeric rank
+    df["Rank"] = rank.astype("Int64")
+
+    # Normalize rank (lower rank = higher score)
+    min_rank = rank.min()
+    max_rank = rank.max()
+
+    df["Global Ranking Score"] = (
+        100 * (1 - (rank - min_rank) / (max_rank - min_rank))
+    ).round(2)
+
+    return df
 
 
 def calculate_research_impact_score(df: pd.DataFrame) -> None:
@@ -282,6 +309,12 @@ def export_dataset(df: pd.DataFrame) -> None:
     Export the final KPI dataset to CSV and Excel.
     """
 
+    # Sort records by Year (2017 -> 2026)
+    df = df.sort_values(
+        by=["Year", "University"],
+        ascending=[True, True]
+    ).reset_index(drop=True)
+
     # Export CSV
     df.to_csv(CSV_OUTPUT, index=False)
 
@@ -391,3 +424,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+     

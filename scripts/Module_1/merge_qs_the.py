@@ -46,6 +46,14 @@ education_master = pd.merge(
 )
 
 # ------------------------------------------
+# Create Unified Rank
+# ------------------------------------------
+
+education_master["Rank"] = education_master["Rank_QS"].combine_first(
+    education_master["Rank_THE"]
+)
+
+# ------------------------------------------
 # Validation
 # ------------------------------------------
 
