@@ -184,9 +184,7 @@ higher-education-dv/
 │   └── Module_4_Deliverables/
 │       ├── storyboard/
 │       │   ├── dashboard_storyboard.drawio
-│       │   ├── dashboard_storyboard.pdf
-│       │   ├── University_Overview.png
-│       │   └── Research_Analytics.png
+│       │   └── dashboard_storyboard.pdf
 │       │
 │       └── prototype/
 │           ├── eduvision_prototype.pbix
