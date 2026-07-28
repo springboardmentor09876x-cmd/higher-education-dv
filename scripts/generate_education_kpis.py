@@ -21,17 +21,13 @@ import warnings
 warnings.filterwarnings('ignore')
 sys.stdout.reconfigure(encoding='utf-8')
 
-# =============================================================================
 # CONFIGURATION
-# =============================================================================
 INPUT_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'processed', 'university_cleaned.csv')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'data', 'final')
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, 'university_final_dataset.xlsx')
 REPORT_PATH = os.path.join(os.path.dirname(__file__), '..', 'reports', 'kpi_engineering_report.md')
 
-# =============================================================================
 # KPI DEFINITIONS
-# =============================================================================
 # Each KPI is defined with:
 # - name: KPI column name
 # - description: What the KPI measures
