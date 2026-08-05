@@ -1,10 +1,5 @@
 # EduVision_DV — Complete KPI & Dashboard Mapping
 
-**Version:** 2.0
-
-**Date:** 2026-07-22
-
----
 
 # Project Data Pipeline
 
