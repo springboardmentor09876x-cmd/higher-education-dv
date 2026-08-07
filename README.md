@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
-![Status](https://img.shields.io/badge/Status-Module%204%20Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Module%206%20In%20Progress-orange)
 
 > Infosys Springboard EduVision_DV Internship Project
 
@@ -133,6 +133,28 @@ This project aims to integrate, clean, analyze, and visualize global higher educ
 
 ![University Overview Dashboard](powerbi/Module_4_Deliverables/prototype/dashboard_preview.png)
 
+## ✅ Module 5 – Dashboard Development
+
+### Dashboards Developed
+
+- University Overview Dashboard
+- Research Analytics Dashboard
+- Student Analytics Dashboard (In Progress)
+- Country Comparison Dashboard (In Progress)
+
+### Features Implemented
+
+- Interactive Page Navigation
+- Dynamic KPI Cards
+- Cross-filtering & Drill-down
+- Responsive Slicers
+- Geographic Visualizations
+- Executive Summary Dashboards
+
+### Deliverables
+
+- eduvision_dashboard_v1.pbix
+
 ---
 
 ## 📂 Project Structure
@@ -209,9 +231,8 @@ higher-education-dv/
 
 ## 🚀 Next Milestones
 
-- Build Research Analytics Dashboard
-- Build Student Analytics Dashboard
-- Build Country Comparison Dashboard
+- Complete Student Analytics Dashboard
+- Complete Country Comparison Dashboard
 - Dashboard Integration
 - Testing & Validation
 - Final Documentation
@@ -228,7 +249,11 @@ Current Progress:
 - Data Cleaning & Preprocessing ✅
 - KPI Engineering ✅
 - Dashboard Planning & Prototyping ✅
-- Dashboard Development ⏳ (Research, Student & Country Dashboards)
+- Dashboard Development
+- • University Overview ✅
+- • Research Analytics ✅
+- • Student Analytics 🚧
+- • Country Comparison 🚧
 
 ---
 
