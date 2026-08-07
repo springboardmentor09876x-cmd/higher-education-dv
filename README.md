@@ -23,7 +23,7 @@ Dataset Collection
 
 ## 👨‍💻 Intern
 
-**Name:** GURU-SASANK
+**Name:** GURU SASANK JINKA
 
 **Internship:** Infosys Springboard Virtual Internship 7.0
 
