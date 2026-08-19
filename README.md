@@ -1,16 +1,16 @@
-# Higher Education Performance Dashboard
+#  Higher Education Performance Dashboard
 
 ## Project Overview
 
 The **Higher Education Performance Dashboard** is a Data Visualization project that analyzes global university performance using university ranking datasets.
 
-The project covers the complete workflow from **data collection and data preparation to KPI engineering, dashboard planning, prototyping, and interactive Tableau dashboard development**.
+The project covers the complete workflow from **data collection and data preparation to KPI engineering, dashboard planning, prototyping, interactive Tableau dashboard development, testing, validation, documentation, and final project delivery**.
 
-The final project includes **four completed dashboards** covering university overview, research analytics, student analytics, and country comparison.
+The final project includes **four completed Tableau dashboards** covering university overview, research analytics, student analytics, and country comparison.
 
 ---
 
-## Project Objectives
+##  Project Objectives
 
 - Collect university ranking data from multiple sources.
 - Clean and preprocess the dataset.
@@ -20,6 +20,8 @@ The final project includes **four completed dashboards** covering university ove
 - Analyze university performance across countries and regions.
 - Compare universities using academic, research, student, and ranking-related metrics.
 - Present insights through interactive data visualizations.
+- Validate dashboard calculations and interactions.
+- Document and deliver the completed project.
 
 ---
 
@@ -31,13 +33,18 @@ Higher_Education_Project/
 ├── dashboard planning and prototyping/
 │   ├── prototype/
 │   ├── storyboard/
-│   └── developed dashboard/
-│       ├── university overview.png
-│       ├── Research analytics.png
-│       ├── Student analytics.png
-│       ├── Country comparison.png
-│       ├── eduvision_dashboard_v1.twb
-│       └── Eduvision_DV.twb
+│   ├── developed dashboard/
+│   │   ├── university overview.png
+│   │   ├── Research analytics.png
+│   │   ├── Student analytics.png
+│   │   ├── Country comparison.png
+│   │   ├── eduvision_dashboard_v1.twb
+│   │   └── Eduvision_DV.twb
+│   │
+│   └── Testing And Validation/
+│       ├── Dashboard Testing Report.pdf
+│       ├── QA Checklist.pdf
+│       └── Final documentation.docx
 │
 ├── datasets/
 │   ├── raw_data/
@@ -58,32 +65,31 @@ Higher_Education_Project/
 │
 └── README.md
 ```
-
----
-
-##  Dataset Information
-
-The dataset contains university ranking and performance information used for analyzing higher education institutions.
-
-- **Total Universities:** 668
-- **Total Features:** 38
-- **Missing Values:** 0
-- **Duplicate Records:** 0
-
-The dataset was processed through data cleaning and KPI engineering before being used for Tableau dashboard development.
-
 ---
 
 ##  Key Performance Indicators (KPIs)
 
 The project includes the following key performance indicators:
 
--  **Global Ranking Score**
--  **Research Impact Score**
--  **Faculty-to-Student Ratio**
--  **International Student Percentage**
--  **Academic Reputation Score**
--  **Research Productivity Index**
+- **Global Ranking Score**
+- **Research Impact Score**
+- **Faculty-to-Student Ratio**
+- **International Student Percentage**
+- **Academic Reputation Score**
+- **Research Productivity Index**
+
+Additional dashboard metrics include:
+
+- **Overall Score**
+- **Citation Score**
+- **H-index**
+- **Total Publications**
+- **Total Citations**
+- **Total Students**
+- **International Students**
+- **Female Percentage**
+- **Male Percentage**
+- **University Counts**
 
 ---
 
@@ -91,21 +97,45 @@ The project includes the following key performance indicators:
 
 Four dashboards were successfully developed using Tableau.
 
-### 1.  University Overview Dashboard
+## 1.  University Overview Dashboard
 
-Provides an overall view of university performance and ranking-related indicators.
+Provides an overall view of university performance and ranking-related indicators, including university distribution, top universities by overall score, and university type distribution.
 
-### 2.  Research Analytics Dashboard
+## 2.  Research Analytics Dashboard
 
-Provides insights into research performance, research impact, and academic reputation.
+Provides insights into research performance, research productivity, citations, publications, H-index, and research performance by country.
 
-### 3.  Student Analytics Dashboard
+## 3.  Student Analytics Dashboard
 
-Provides insights into student population, student-related indicators, and male/female student distribution.
+Provides insights into student population, international students, faculty-to-student ratio, university enrollment, university type distribution, and male/female student distribution.
 
-### 4.  Country Comparison Dashboard
+## 4.  Country Comparison Dashboard
 
-Provides country-level comparison of university performance and related indicators.
+Provides country-level comparison of university performance, academic reputation, citation performance, country rankings, regional education trends, and related indicators.
+
+---
+
+#  Testing & Validation
+
+A dedicated testing and validation stage was completed for the four Tableau dashboards.
+
+Validation activities included:
+
+-  KPI calculation validation
+-  Ranking calculation verification
+-  Dashboard interaction testing
+-  Educational metric validation
+-  Filter and cross-dashboard interaction testing
+-  Data quality checks
+
+The dashboard filters and interactions were manually tested and confirmed to be working.
+
+The project also includes:
+
+- **QA Checklist.pdf**
+- **Dashboard Testing Report.pdf**
+
+These documents provide supporting evidence for the testing and validation stage.
 
 ---
 
@@ -121,6 +151,10 @@ Provides country-level comparison of university performance and related indicato
 4. Dashboard Planning & Prototyping
         ↓
 5. Tableau Dashboard Development
+        ↓
+6. Testing & Validation
+        ↓
+7. Documentation & Project Delivery
 ```
 
 ---
@@ -131,47 +165,68 @@ Provides country-level comparison of university performance and related indicato
 - **Pandas**
 - **NumPy**
 - **Jupyter Notebook**
-- **Tableau**
+- **Tableau Desktop** 
 - **Draw.io**
 - **Git**
 - **GitHub**
 
 ---
 
-#  Project Milestones
+The project delivery package includes:
 
-### ✅ Milestone 1 – Completed
+-  **Final Documentation**
+-  **QA Checklist**
+-  **Dashboard Testing Report**
+-  **Final Tableau Workbook**
+-  **GitHub Repository**
+-  **Updated Project Folder Structure**
 
-Data Collection and Data Cleaning
+The final documentation covers:
 
-### ✅ Milestone 2 – Completed
-
-KPI Engineering and Dashboard Planning & Prototyping
-
-### ✅ Milestone 3 – Completed
-
-Tableau Dashboard Development
+- Dataset sources
+- Dataset information
+- KPI definitions
+- Dashboard descriptions
+- Education analytics methodology
+- Project folder structure
+- Testing and validation
+- Project delivery information
 
 ---
 
 #  Final Project Status
 
-## ✅ Completed Through Milestone 3
+###  Milestone 1 – Data Collection & Cleaning
+**Status: Completed**
 
-The project has successfully completed **Milestones 1, 2, and 3**.
-
-All four planned Tableau dashboards have been developed:
-
-- ✅ University Overview
-- ✅ Research Analytics
-- ✅ Student Analytics
-- ✅ Country Comparison
-
-
+Data collection, preprocessing, and data cleaning were completed.
 
 ---
 
-##  Author
+###  Milestone 2 – KPI Engineering & Dashboard Planning
+**Status: Completed**
+
+KPI engineering, dashboard planning, storyboarding, and prototyping were completed.
+
+---
+
+###  Milestone 3 – Dashboard Development
+**Status: Completed**
+
+Four interactive Tableau dashboards were developed:
+
+---
+
+###  Milestone 4 – Testing & Delivery
+**Status: Completed**
+
+Dashboard KPI calculations and ranking calculations were validated, dashboard interactions were manually tested, and QA/testing documentation was prepared.
+
+Documentation and final project delivery materials were also completed.
+
+---
+
+#  Author
 
 **S. SAI DHEEJASVINI**
 
