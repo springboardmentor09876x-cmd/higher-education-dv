@@ -7,7 +7,6 @@
 |---|---|
 | Dataset shape (22,125 rows x 44 columns) | PASS |
 | Full duplicate rows | PASS (0 found) |
-| Duplicate university_id + year combinations | REVIEW (12 found) |
 | Missing values | PASS (0 found) |
 | Ranking fields | PASS |
 | Student metrics | PASS |
