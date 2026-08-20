@@ -291,11 +291,14 @@ higher-education-dv/
 │       └── EduVision_DV.pbix
 │
 ├── docs/
-│   ├── PROJECT_DOCUMENTATION.md
-│   ├── KPI_DEFINITIONS.md
-│   ├── QA_CHECKLIST.md
-│   └── DASHBOARD_TESTING_REPORT.md
-│
+│   ├── Module_7_Deliverables/
+│   │   ├── QA_CHECKLIST.md
+│   │   └── DASHBOARD_TESTING_REPORT.md
+│   │
+│   └── Module_8_Deliverables/
+│        ├── PROJECT_DOCUMENTATION.md
+│        └── KPI_DEFINITIONS.md
+│  
 └── README.md
 ```
 ---
