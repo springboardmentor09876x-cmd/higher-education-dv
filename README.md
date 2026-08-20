@@ -290,6 +290,12 @@ higher-education-dv/
 │   └── Module_6_Deliverables/
 │       └── EduVision_DV.pbix
 │
+├── docs/
+│   ├── PROJECT_DOCUMENTATION.md
+│   ├── KPI_DEFINITIONS.md
+│   ├── QA_CHECKLIST.md
+│   └── DASHBOARD_TESTING_REPORT.md
+│
 └── README.md
 ```
 ---
