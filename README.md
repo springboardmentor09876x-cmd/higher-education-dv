@@ -360,7 +360,8 @@ University-Ranking-Analytics/
     ├── KPI_Definitions.md
     ├── Dashboard_Guide.md
     ├── Education_Analytics_Methodology.md
-    └── Dashboard_Testin| Technology / Tool      
+    └── Dashboard_Testin| Technology / Tool    
+```  
 # 14. Technologies Used
 
 | Technology / Tool | Purpose |
@@ -402,3 +403,12 @@ QA Checklist
 Documentation
      ↓
 GitHub Project Delivery
+```
+
+# 16. Future Scope
+
+Predict future university rankings using Machine Learning.
+Automate data updates and KPI calculations.
+Add advanced research and performance analysis.
+Improve dashboard interactivity and visualization.
+Deploy the dashboard to the cloud for wider access.
