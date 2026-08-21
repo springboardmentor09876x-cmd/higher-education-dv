@@ -361,7 +361,7 @@ University-Ranking-Analytics/
     ├── Dashboard_Guide.md
     ├── Education_Analytics_Methodology.md
     └── Dashboard_Testing_Report.md
-# 14.Technologies Used
+## 14. Technologies Used
 
 | Technology / Tool | Purpose |
 |---|---|
@@ -377,7 +377,7 @@ University-Ranking-Analytics/
 
 ---
 
-# 15.Project Workflow
+## 15. Project Workflow
 
 The complete project workflow is:
 
@@ -404,7 +404,7 @@ Documentation
      ↓
 GitHub Project Delivery
 
-#16.Future Scope
+## 16. Future Scope
 
 - Predict future university rankings using **Machine Learning**.
 - Automate **data updates and KPI calculations**.
