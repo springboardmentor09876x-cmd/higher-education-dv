@@ -1,26 +1,5 @@
 # QA Checklist - EduVision DV
 
-**Project:** Higher Education Performance Dashboard
-**Dataset:** `data/final/university_final_dataset.xlsx`
-**Dashboard:** `dashboard/eduvision_prototype_final.twbx`
-**Reviewed by:** [Student Name]
-**Date:** [Date]
-**QA Status:** In Progress / Complete
-
----
-
-## How to Use This Checklist
-
-Go through each item in order. Mark the status as one of:
-
-- **PASS** - Check is complete and everything looks correct
-- **FAIL** - Something is wrong and needs to be fixed before submission
-- **N/A** - This check does not apply to the current version
-- **PENDING** - Has not been checked yet
-
-Add any notes or issues in the Comments column. If something fails, fix it and re-check before moving on.
-
----
 
 ## 1. Data Quality Checks
 
@@ -195,10 +174,3 @@ All checks must be PASS or N/A before this section is completed.
 
 ---
 
-## Notes
-
-- If any check fails, fix the issue and re-run the affected checks before marking as PASS.
-- For KPI validation (section 2), pick at least 5 random universities and manually calculate the KPI values using the source columns to confirm the formulas are working.
-- For dashboard testing (section 3), test on both Tableau Desktop and Tableau Public if possible to ensure compatibility.
-- For filter testing (section 4), test each filter individually and in combination with other filters.
-- Keep this checklist updated as the project evolves. If new features are added, add corresponding QA checks.
