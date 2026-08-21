@@ -360,8 +360,8 @@ University-Ranking-Analytics/
     ├── KPI_Definitions.md
     ├── Dashboard_Guide.md
     ├── Education_Analytics_Methodology.md
-    └── Dashboard_Testing_Report.md
-## 14. Technologies Used
+    └── Dashboard_Testin| Technology / Tool      
+# 14. Technologies Used
 
 | Technology / Tool | Purpose |
 |---|---|
@@ -375,9 +375,8 @@ University-Ranking-Analytics/
 | **CSV** | Storage and processing of raw and processed datasets |
 | **Power BI DAX** | KPI and calculated measure creation |
 
----
 
-## 15. Project Workflow
+# 15. Project Workflow
 
 The complete project workflow is:
 
@@ -403,11 +402,3 @@ QA Checklist
 Documentation
      ↓
 GitHub Project Delivery
-
-## 16. Future Scope
-
-- Predict future university rankings using **Machine Learning**.
-- Automate **data updates and KPI calculations**.
-- Add advanced **research and performance analysis**.
-- Improve dashboard **interactivity and visualization**.
-- Deploy the dashboard to the **cloud** for wider access.
